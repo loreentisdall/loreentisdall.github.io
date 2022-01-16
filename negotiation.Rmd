@@ -1,0 +1,53 @@
+---
+title: "Negotiation"
+output: distill::distill_article
+urlcolor: red
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course summary
+<p style="text-align:justify;">The idea that some people are born negotiators who employ the _art of negotiation_ to achieve maximally beneficial results for their own purpose is a pervasive one, yet it is scientifically questionable. Instead, there may be much more of a _science of negotiation_, which can help individuals to prepare for, engage in, and close negotiations, and to do so more successfully. Negotiations are complex, of course, with outcomes ranging from getting the purchase price down on a new bike, to deciding the future of company employees during a takeover, or ending a hostage situation peacefully and without injury. By examining negotiations scientifically, we can establish basic principles that hold across different negotiation situations, which in turn allow us to identify factors that influence negotiation processes and outcomes. </p>
+
+## Aim of the course
+<p style="text-align:justify;">Students taking this course will learn the fundamental principles and concepts underlying _negotiation theory_ and _behavioral decision making_. Based on concrete role-playing exercises featuring predefined goals, budgets, etc., students will develop and continually improve their negotiation skills, including how to frame, prepare, and conduct different kinds of negotiations.</p>
+
+## Key literature
++ Raiffa, H. E., Richardson, J., & Metcalfe, D. (2002). _Negotiation analysis: The science and art of collaborative decision making._ Cambridge: Harvard University Press.
++ Malhotra, D. & Bazerman, M.H. (2007). _Negotiation genius._ New York: Dell.
++ Fisher, R., & Ury, W. (1981). _Getting to yes._ New York, USA: Penguin.
+
+## Prerequisites
+None.
+
+## Sessions Spring Semester 2022
+The Negotiation seminar in FS22 takes place on Tuesdays, 2:15pm-3:45pm (GMT+1).
+
+
+Date      Content                                                      Note 
+--------  ----------------------------------------------------------   -------------- 
+22.02.22  Course overview & introduction                                                              
+29.02.22  Negotiation theory I                                         
+01.03.22  Negotiation theory II           
+08.03.22  *Fasnacht*                                                   *No seminar*
+15.03.22  Reading week                                                 *asynchronus* 
+22.03.22  Distributive & integrative negotiation: Intro                        
+29.03.22  Distributive negotiation: Exercise                       
+05.04.22  Integrative negotiation: Exercise                                
+12.04.22  Negotiator cognition               
+19.04.22  Real world negotiation: influence, ethics, lies, & power                                
+26.04.22  Distributive & integrative negotiation: Exercise                       
+26.04.22  Negotiating via agents: Intro & exercise                         
+03.05.22  Multi-party negotiation: Intro & exercise                           
+10.05.22  Preparation videocasts and group presentations               *asynchronus*   
+17.05.22  Group presentations                              
+24.05.22  Discussion & wrap up                                                      
+31.05.22  Q&A theory paper                                             *optional*             
+------------------------------------------------------------------------------------
+
+
+
+
+
