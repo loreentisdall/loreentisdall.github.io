@@ -55,7 +55,7 @@ The Forecasting seminar in FS22 takes place on Tuesdays, 10:15am-11:45am (GMT+1)
 | 12      | 10.05.22    | **Application of time-series analysis**                                   |  *Guest talk*     |   
 | 13      | 17.05.22    | **Statistical forecasting IV: Machine learning**                                                         
 |         |             | + [Yarkoni, T., & Westfall, J. (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, 12(6), 1100–1122.](https://doi.org/10.1177/1745691617693393)   | |
-| 14      | 24.05.22   | **Statistical forecasting IV: Forecasting in social settings**                                           
+| 14      | 24.05.22   | **Forecasting in social settings**                                           
 |         |             | + [Makridakis, S., Hyndman, R. J., & Petropoulos, F. (2020). Forecasting in social settings: The state of the art. International Journal of Forecasting, 36(1), 15–28.](https://doi.org/10.1016/j.ijforecast.2019.05.011)  
 |         |             | + [Science special issue on _Prediction_.](https://www.science.org/toc/science/355/6324) | |  
 | 15      | 31.05.22    | **Student presentations**                                                 |                   |            
