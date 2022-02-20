@@ -34,7 +34,7 @@ The Negotiation seminar in FS22 takes place on Tuesdays, 2:15pm-3:45pm (GMT+1).
 | 2       | 01.03.22    | **Negotiation theory**                                              |                  | 
 | 3       | 08.03.22    | *Fasnacht*                                                          | *No seminar*     | 
 | 4       | 15.03.22    | **Reading week**                                                    | *Asynchronus*    |
-| 5       | 22.03.22    | **Distributive & integrative negotiation: Intro**                   |                  | 
+| 5       | 22.03.22    | **Preparing for negotiation: BATNA, ZOPA, RV, TV**                  |                  | 
 | 6       | 29.03.22    | **Distributive negotiation: Exercise**                              |                  | 
 | 7       | 05.04.22    | **Integrative negotiation: Exercise**                               |                  | 
 | 8       | 12.04.22    | **Negotiator cognition**                                            |                  | 
