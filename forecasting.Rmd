@@ -11,7 +11,7 @@ output: distill::distill_article
 
 ## Background literature
 + Armstrong, J. S. (2001). _Principles of forecasting: A handbook for researchers and practitioners._ Norwell, MA: Kluwer Academic.
-+ Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: Principles and Practice, 2nd edition, OTexts: Melbourne, Australia. OTexts.com/fpp2. Accessed on 11.01.2022. _[An online copy of the book is available here.](https://otexts.com/fpp2/)_
++ Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts: Melbourne, Australia. OTexts.com/fpp3. Accessed on 11.01.2022. _[An online copy of the book is available here.](https://otexts.com/fpp3/)_
 + Hastie, R., & Dawes, R. M. (2009). _Rational choice in an uncertain world: The psychology of judgment and decision making._ Sage Publications.
 + Tetlock, P. E., & Gardner, D. (2015). _Superforecasting: The art and science of prediction._ New York: Crown. _(optional)_
 
@@ -33,7 +33,7 @@ The Forecasting seminar in FS22 takes place on Tuesdays, 10:15am-11:45am (GMT+1)
 | 4       | 15.03.22    | **Basic programming in RStudio**                                          |  *Asynchronous*   | 
 | 5       | 22.03.22    | **Judgmental forecasting I: General framework for judgment**              |                   |      
 |         |             | + Hastie, R., & Dawes, R. M. (2010). A general framework for judgment. In R. Hastie & R. M. Dawes (Eds.), Rational choice in an uncertain world: The psychology of judgment and decision making (2nd ed., pp. 45–69). SAGE. 
-|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2018). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 4). OTexts.](https://otexts.com/fpp2/judgmental.html) | | 
+|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2021). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 4). OTexts.](https://otexts.com/fpp3/judgmental.html) | | 
 | 6       | 29.03.22    | **Judgmental forecasting II: Group methods**                                       
 |         |             | + [Rowe, G., & Wright, G. (1999). The Delphi technique as a forecasting tool: Issues and analysis. International Journal of Forecasting, 15(4), 353–375.]( https://doi.org/10.1016/S0169-2070(99)00018-7)   
 |         |             | + [Hastie, R., & Kameda, T. (2005). The robust beauty of majority rules in group decisions. Psychological Review, 112(2), 494–508.](https://doi.org/10.1037/0033-295X.112.2.494)   |  |  
@@ -51,7 +51,7 @@ The Forecasting seminar in FS22 takes place on Tuesdays, 10:15am-11:45am (GMT+1)
 |         |             | + [Babyak, M. A. (2004). What you see may not be what you get: A brief, nontechnical introduction to overfitting in regression-type models. Psychosomatic Medicine, 66(3), 411–421.](https://doi.org/10.1097/01.psy.0000127692.23278.a9) | |  
 | 11      | 03.05.22    | **Statistical forecasting III: Time-series analysis**                     
 |         |             | + [Armstrong, J. S. M. (2001). Extrapolation for time-series and cross-sectional data. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 215–243). Kluwer.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1179&context=marketing_papers)   
-|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: Principles and Practice, 2nd edition, OTexts.](https://otexts.com/fpp2/) | | 
+|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts.](https://otexts.com/fpp3/) | | 
 | 12      | 10.05.22    | **Application of time-series analysis**                                   |  *Guest talk*     |   
 | 13      | 17.05.22    | **Statistical forecasting IV: Machine learning**                                                         
 |         |             | + [Yarkoni, T., & Westfall, J. (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, 12(6), 1100–1122.](https://doi.org/10.1177/1745691617693393)   | |
