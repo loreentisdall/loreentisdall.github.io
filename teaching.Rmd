@@ -14,7 +14,7 @@ I supervise students writing their Bachelor and Master thesis:
 
 * [**Bachelor thesis**](bsc_thesis.html)
   + Seminar for Master students
-* [**Master thesis**](msc-thesis.html)
+* [**Master thesis**](msc_thesis.html)
   + Seminar for Master students
 
 In the past I have also taught **Research Methods** and **Psychology and Law**. 
