@@ -9,9 +9,15 @@ I currently teach the following courses at the University of Basel:
   + Seminar for Master students
 * [**Forecasting**](forecasting.html)
   + Seminar for Master students
+  
+I supervise students writing their Bachelor and Master thesis:
 
-In the past I have also taught **Research Methods** and **Psychology and Law**. From time to time I supervise students writing their Bachelor or Master thesis.
+* [**Bachelor thesis**](bsc_thesis.html)
+  + Seminar for Master students
+* [**Master thesis**](msc-thesis.html)
+  + Seminar for Master students
 
+In the past I have also taught **Research Methods** and **Psychology and Law**. 
 
 ## sub-heading 
 

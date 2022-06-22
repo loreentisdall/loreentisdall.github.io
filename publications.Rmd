@@ -4,12 +4,9 @@ output: distill::distill_article
 ---
 For an online list of publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. To note, earlier publications appear under the surname Mamerow.
 
-
-## Papers under review or on preprint servers
-* Tisdall, L., MacNiven, K. H., Padula, C. B., Leong, J. K., & Knutson, B. (2022). Brain tract structure predicts relapse to stimulant drug use. [Invitation to revise and resubmit.] </p>
-
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
++ Tisdall, L., MacNiven, K. H., Padula, C. B., Leong, J. K., & Knutson, B. (2022). Brain tract structure predicts relapse to stimulant drug use. _Proceedings of the National Academy of Sciences, 119_(26), e2116703119. *[Find the paper here.](https://www.pnas.org/doi/10.1073/pnas.2116703119)* 
 + Tisdall, L., Frey, R., Horn, A., Ostwald, D., Horvath, L., Pedroni, A., ... & Mata, R. (2020). Brain–behavior associations for risk taking depend on the measures used to capture individual differences. _Frontiers in Behavioral Neuroscience, 14,_ 194. *[Find the paper here.](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.587152/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Behavioral_Neuroscience&id=587152)*
 + Botvinik-Nezer, R., Holzmeister, F., Camerer, C. F., Dreber, A., Huber, J., Johannesson, M., ... & Rieck, J. R. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. _Nature, 582_(7810), 84-88. *[Find the paper here.](https://www.nature.com/articles/s41586-020-2314-9?fbclid=IwAR3jkR1Gkraxbig5vbUz0d0_bVOTCzAFGoCmnRQMG5jpcDwiApCjxZHNHrQ)*
 + Mamerow, L., Frey, R., & Mata, R. (2016). Risk taking across the life span: A comparison of self-report and behavioral measures of risk taking. _Psychology and Aging, 31_(7), 711. *[Find the paper here.](https://www.researchgate.net/profile/Loreen-Tisdall/publication/308760553_Risk_Taking_Across_the_Life_Span_A_Comparison_of_Self-Report_and_Behavioral_Measures_of_Risk_Taking/links/606ad0f4a6fdccad3f71a8d3/Risk-Taking-Across-the-Life-Span-A-Comparison-of-Self-Report-and-Behavioral-Measures-of-Risk-Taking.pdf)*
