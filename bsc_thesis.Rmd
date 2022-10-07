@@ -1,22 +1,20 @@
 ---
 title: "Bachelor thesis"
-output: distill::distill_article
-urlcolor: red
+output:
+  postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+
+# install.packages("postcards")
+library(postcards)
 ```
 
 ## Research synthesis in the area of risk taking, externalizing behavior, and related disorders
-<p style="text-align:justify;">Externalizing refers to a collective of behaviors and disorders often associated with self-regulation, including antisocial behavior, substance use, and other key outcomes of health, wealth, and general well-being (Karlsson Linnér et al., 2021, Nature Neuroscience). The societal and personal costs of (disordered) externalizing, including unemployment, incarceration, addiction, to name but a few, are evidently huge. To intervene and, ideally, prevent externalizing behaviors from negatively affecting individuals and societies alike, we first must understand how to study externalizing and how externalizing relates to other constructs (e.g., impulsivity, risk preference). In a second step, we can try to identify biological (e.g., brain) and behavioral phenotypes that explain and/or predict externalizing.</p>
+<p style="text-align:justify;">Externalizing refers to a collective of behaviors and disorders often associated with self-regulation, including antisocial behavior, substance use, and other key outcomes of health, wealth, and general well-being (e.g., [Karlsson Linnér et al., 2021, Nature Neuroscience](https://doi.org/10.1038/s41593-021-00908-3)). The societal and personal costs of (disordered) externalizing, including unemployment, incarceration, addiction, to name but a few, are evidently huge. To intervene and, ideally, prevent externalizing behaviors from negatively affecting individuals and societies alike, we first must understand how to study externalizing and how externalizing relates to other constructs (e.g., impulsivity, risk preference). In a second step, we can try to identify biological (e.g., brain) and behavioral phenotypes that explain and/or predict externalizing.</p>
 
 <p style="text-align:justify;">Depending on individual interests and in consultation with me as your primary supervisor, thes bachelor thesis focuses on the topic of individual differences in risk preference and other related externalizing behaviors. You will use systematic research methods for synthesizing the existing research literature, which you will learn during the course of your bachelor thesis. Depending on your interests, related (clinical) phenotypes (e.g., substance addiction, antisocial and criminal behavior) can also be the focus of your bachelor thesis. For more information about how we structure our supervision at the Center for Cognitive and Decision Sciences, see our dedicated [bachelor thesis website](https://matarui.github.io/BSc_thesis/).</p>
-
-### Background literature
-+ [Karlsson Linnér, R., Mallard, T. T., Barr, P. B., Sanchez-Roige, S., Madole, J. W., Driver, M. N., Poore, H. E., de Vlaming, R., Grotzinger, A. D., Tielbeek, J. J., Johnson, E. C., Liu, M., Rosenthal, S. B., Ideker, T., Zhou, H., Kember, R. L., Pasman, J. A., Verweij, K. J. H., Liu, D. J., … Dick, D. M. (2021). Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. _Nature Neuroscience, 24_(10), 1367–1376.](https://doi.org/10.1038/s41593-021-00908-3)
-
-
 
 
 

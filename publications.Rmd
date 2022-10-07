@@ -1,9 +1,17 @@
 ---
 title: "Publications"
-output: distill::distill_article
+output:
+  postcards::trestles
 ---
-For an automated list of my publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. Note, earlier publications appear under the surname Mamerow.
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# install.packages("postcards")
+library(postcards)
+```
+
+For an automated list of my publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. Note, earlier publications appear under the surname Mamerow.
 
 ## Preprints and manuscripts submitted for peer review
 <p style="text-align:justify;">

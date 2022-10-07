@@ -1,13 +1,21 @@
 ---
 title: "Projects"
-output: distill::distill_article
+output:
+  postcards::trestles
 ---
 
-## In progress
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 
-* **DiffEat** _(2021-present)_
+# install.packages("postcards")
+library(postcards)
+```
+
+## Ongoing 
+
+* **DiffEat** (started in 2021)
   + <p style="text-align:justify;">In this project we are planning to investigate the question of the neural structural underpinnings of (disinhibited/emotional) food intake and control, based on prior work suggesting some exciting neural targets. Key collaborators are [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), [Brian Knutson](https://stanford.edu/~knutson/) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/).</p>
-* **DiffRisk** _(2021-present)_
+* **DiffRisk** (started in 2021)
   + <p style="text-align:justify;">Previous work suggested that neural functional activity in the nucleus accumbens to risk- and reward-related cues can predict real-life risk-taking behavior. Given that nucleus accumbens functional activity is driven by neurotransmission from connected brain regions, in this project we are investigating whether the structural properties of tracts carrying signals to the nucleus accumbens may also predict risk preference. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), and [Brian Knutson](https://stanford.edu/~knutson/).</p>
 
 
@@ -15,11 +23,10 @@ output: distill::distill_article
 
 * **AgeUncertainty** (2022) 
   + <p style="text-align:justify;">In this project we investigated the effect of age on neural correlates of decision-making under uncertainty. We were particularly interested in examining common and unique effects of age on the neural correlates of different kinds of uncertainty, namely paradigms of risk and temporal discounting. The key collaborator is [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/). This paper is currently under review.</p>
-
 * **AgeRisk 2.0** (2016-2022)
   + <p style="text-align:justify;">In this project we are investigating the effect of age on individual differences in risk preference and related constructs (impulsivity and self-control) in a healthy human life span sample. A particular focus of this project is to examine the extent to which associations between age and the different constructs differ as a function of whether we use self reports, behavioral measures, informant reports, or neuroimaging to assess risk preference, impulsivity, or self-control. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Dirk Wulff](https://www.dirkwulff.org), and [David Kellen](https://thecollege.syr.edu/people/faculty/kellen-phd-david/). The paper is currently under review, here is the [link](https://doi.org/10.31219/osf.io/uj359) to our preprint.</p>
 * **DiffRelapse** (2020-2022)
-  + <p style="text-align:justify;">I started this exciting new area of research during my time as a postdoctoral researcher at [spanlab](https://spanlab.stanford.edu) (Stanford University). In this particular project we investigated whether the structural properties of white-matter projections converging on the nucleus accumbens predict relapse to stimulant use in human stimulant use disorder patients. Key collaborators are [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), [Brian Knutson](https://stanford.edu/~knutson/), [Josiah Leong](https://fulbright.uark.edu/departments/psychological-science/people/index/uid/josiah/name/Josiah+Leong/), and [Claudia Padula](https://med.stanford.edu/bravelab/about.html). Here is the [link]((https://www.pnas.org/doi/10.1073/pnas.2116703119) to our paper.</p>
+  + <p style="text-align:justify;">I started this exciting new area of research during my time as a postdoctoral researcher at [spanlab](https://spanlab.stanford.edu) (Stanford University). In this particular project we investigated whether the structural properties of white-matter projections converging on the nucleus accumbens predict relapse to stimulant use in human stimulant use disorder patients. Key collaborators are [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), [Brian Knutson](https://stanford.edu/~knutson/), [Josiah Leong](https://fulbright.uark.edu/departments/psychological-science/people/index/uid/josiah/name/Josiah+Leong/), and [Claudia Padula](https://med.stanford.edu/bravelab/about.html). Here is the [link](https://www.pnas.org/doi/10.1073/pnas.2116703119) to our paper.</p>
 * **Basel-Berlin Risk Study (Neuroimaging component)** (2014-2020)
   + <p style="text-align:justify;">In this project we used functional neuroimaging to investigate whether risk-taking related brain activation in two popular behavioral risk-taking measures converge at the level of the group and the individual. We also investigated whether individual differences in risk-taking related brain activity can predict actual risk-taking behavior. Here is the [link](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.587152/full) to our paper.</p>
 * **Neuroimaging Analysis Replication and Prediction Study (narps)** (2018-2020)

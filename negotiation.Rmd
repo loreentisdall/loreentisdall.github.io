@@ -1,25 +1,27 @@
 ---
-title: "Negotiation"
-output: distill::distill_article
-urlcolor: red
+title: "Negotiation seminar"
+output:
+  postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+
+# install.packages("postcards")
+library(postcards)
 ```
 
 ## Course summary
 <p style="text-align:justify;">The idea that some people are born negotiators who employ the _art of negotiation_ to achieve maximally beneficial results for their own purpose is a pervasive one, yet it is scientifically questionable. Instead, there may be much more of a _science of negotiation_, which can help individuals to prepare for, engage in, and close negotiations, and to do so more successfully. Negotiations are complex, of course, with outcomes ranging from getting the purchase price down on a new bike, to deciding the future of company employees during a takeover, or ending a hostage situation peacefully and without injury. By examining negotiations scientifically, we can establish basic principles that hold across different negotiation situations, which in turn allow us to identify factors that influence negotiation processes and outcomes. </p>
 
 ## Aim of the course
-<p style="text-align:justify;">Students taking this course will learn the fundamental principles and concepts underlying _negotiation theory_ and _behavioral decision making_. Based on concrete role-playing exercises featuring predefined goals, budgets, etc., students will develop and continually improve their negotiation skills, including how to frame, prepare, and conduct different kinds of negotiations.</p>
+<p style="text-align:justify;">This seminar is aimed at Master students, who will learn the fundamental principles and concepts underlying negotiation theory and behavioral decision making. Based on concrete role-playing exercises featuring predefined goals, budgets, etc., students will develop and continually improve their negotiation skills, including how to frame, prepare, and conduct different kinds of negotiations.</p>
 
 ## Background literature
-+ Raiffa, H. E., Richardson, J., & Metcalfe, D. (2007). _Negotiation analysis: The science and art of collaborative decision making._ Cambridge: Harvard University Press.
-+ Malhotra, D. & Bazerman, M.H. (2007). _Negotiation genius._ New York: Dell.
-+ Fisher, R., & Ury, W. (1981). _Getting to yes._ New York, USA: Penguin.
-
-_Session-specific readings will be announced as required._
++ [Raiffa, H. E., Richardson, J., & Metcalfe, D. (2007). _Negotiation analysis: The science and art of collaborative decision making._ Cambridge: Harvard University Press.](https://books.google.ch/books?hl=en&lr=&id=e2n9DwAAQBAJ&oi=fnd&pg=PT6&dq=Negotiation+analysis:+The+science+and+art+of+collaborative+decision+making&ots=40nVUGafcp&sig=JZVpC8mogdIkLAgD6U9jlikbEdU&redir_esc=y#v=onepage&q=Negotiation%20analysis%3A%20The%20science%20and%20art%20of%20collaborative%20decision%20making&f=false)
++ [Malhotra, D. & Bazerman, M.H. (2007). _Negotiation genius._ New York: Dell.]((https://books.google.ch/books?hl=en&lr=&id=ChWCIeUW3CEC&oi=fnd&pg=PA1&dq=Negotiation+Genius:+How+to+Overcome+Obstacles+and+Achieve+Brilliant+Results+at+the+Bargaining+Table+and+Beyond&ots=wQpnbOt7bA&sig=qdq_MKoxoUQDA_hnm_4QGMoZlj4&redir_esc=y#v=onepage&q=Negotiation%20Genius%3A%20How%20to%20Overcome%20Obstacles%20and%20Achieve%20Brilliant%20Results%20at%20the%20Bargaining%20Table%20and%20Beyond&f=false))
++ [Fisher, R., & Ury, W. (1981). _Getting to yes._ New York, USA: Penguin.](https://www.cdowcym.org/documents/resources/gettingtoyes.pdf)
++ Session-specific readings will be announced as required.
 
 ## Prerequisites
 None.
@@ -28,10 +30,10 @@ None.
 The Negotiation seminar in FS23 takes place on Tuesdays, 2:15pm-3:45pm (GMT+1).
 
 
-| WEEK    | DATE        | TOPIC                                                               | NOTE             | 
-| ------- | ----------- | ------------------------------------------------------------------- | ----------------:| 
+|  WEEK   |    DATE     | TOPIC                                                               | NOTE             | 
+| :------:| ---------   | ------------------------------------------------------------------- | ---------------- | 
 | 1       | 21.02.23    | **Course overview & introduction**                                  |                  | 
-| 2       | 28.02.23    | *Fasnacht*                                                          | *No seminar*     |             
+| 2       | 28.02.23    | Fasnacht                                                            | *No seminar*     |             
 | 3       | 07.03.23    | **Negotiation theory I**                                              
 |         |             | + Raiffa et al. (2007), Chapters 1-4.                               |                  |
 | 4       | 14.03.23    | **Negotiation theory II**                                                    

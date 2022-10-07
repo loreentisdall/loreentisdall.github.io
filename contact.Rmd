@@ -1,8 +1,15 @@
 ---
 title: "Contact"
-description: 
-site: distill::distill_website
+output:
+  postcards::trestles
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# install.packages("postcards")
+library(postcards)
+```
 
 ```{css, echo=FALSE}
 h1, h2, h3, h4{
