@@ -20,16 +20,16 @@ library(postcards)
 <p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys and neuroimaging studies, and I use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and policing.</p>
 
 ## Positions
-* 05/2020-present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
-* 11/2019-04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
-* 07/2018-09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+* 05/2020 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+* 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
+* 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 
 ## Education 
-* 09/2014-06/2018: PhD Psychology, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
-* 10/2012-09/2014: MSc Social, Cognitive, and Affective Neuroscience, Free University Berlin, Berlin, Germany
-* 09/2011-11/2012: MRes Security Science, University College London, UK
-* 10/2008-11/2009: MSc Crime Science, University College London, UK
-* 10/2005-08/2008: BSc(Hons) Psychology, Goldsmiths' College, University of London, UK
+* 09/2014 - 06/2018: PhD Psychology, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+* 10/2012 - 09/2014: MSc Social, Cognitive, and Affective Neuroscience, Free University Berlin, Berlin, Germany
+* 09/2011 - 11/2012: MRes Security Science, University College London, UK
+* 10/2008 - 11/2009: MSc Crime Science, University College London, UK
+* 10/2005 - 08/2008: BSc(Hons) Psychology, Goldsmiths' College, University of London, UK
 
 ## Grants and awards
 * Early Postdoc.Mobility grant from the Swiss National Science Foundation
