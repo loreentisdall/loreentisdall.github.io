@@ -1,32 +1,41 @@
 ---
-title: "Hi!"
-description: 
+title: "Loreen Tisdall"
+#image: "images/loreen_cartoon_black.jpeg"
+image: "images/photo_loreen_circle.jpeg"
+#theme: theme.css
+links:
+  - label: UniBas
+    url: "https://psychologie.unibas.ch/de/personen/loreen-tisdall"
+  - label: ORCID iD
+    url: "https://orcid.org/0000-0001-6303-6148"
+  - label: Google Scholar
+    url: "https://scholar.google.co.uk/citations?user=o8ce3OwAAAAJ&hl=en&oi=ao"
+  - label: Twitter
+    url: "https://twitter.com/LoreenTisdall"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/loreen-tisdall-54937431/"
+  - label: Email
+    url: 'loreen.tisdall@unibas.ch'
+output:
+  postcards::trestles
 site: distill::distill_website
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
+# install.packages("postcards")
+library(postcards)
 ```
-```{css, echo=FALSE}
-h1, h2, h3, h4{
-  text-align: center;
-}
-```
+I am a postdoctoral researcher at the Center for Cognitive and Decision Sciences at the University of Basel in Switzerland. As a research psychologist in the area of decision science, I study how and why humans differ in their choices compared to others. I have a special interest in risk- and impulsivity related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts.
 
-```{r, fig.align="center",fig.height=0.25,fig.width=0.25}
-knitr::include_graphics("images/loreen_cartoon_black.jpeg")
-```
-<center>
-_Image courtesy of [kusoCartoon](https://kusocartoon.com)_
-</center>
-$~$
-<p style="text-align:justify;">
-I am a postdoctoral researcher at the Center for Cognitive and Decision Sciences at the University of Basel in Switzerland. As a research psychologist in the area of decision science, I study how and why humans differ in their choices compared to others. I have a special interest in risk- and impulsivity related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts.</p>
+---
+
+Interested in using innovative methodological approaches to analyse age effects on risk preference and related constructs? Check out our preprint using [Specification Curve Analysis](https://osf.io/preprints/uj359/).
+
+Interested in predicting clinical outcomes from brain structure? Check out our recent [PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2116703119).
+
+Interested in improving how we analyse neuroimaging data? Check out our many-analysts [Nature paper](https://www.nature.com/articles/s41586-020-2314-9).
+
 

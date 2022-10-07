@@ -3,10 +3,10 @@ title: "About"
 description: |
 ---
 
-# My research in keywords
-_Risk taking, impulsivity, brain, life span, convergence _
+## Research interests 
 
-# And now the extended version... 
+**Keywords:** risk taking, impulsivity, externalizing, life span, measurement convergence, neural mechanisms
+
 <p style="text-align:justify;">In my work I focus on risk- and impulsivity related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
 
 <p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys and neuroimaging studies, and I use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and policing.</p>
@@ -27,6 +27,10 @@ _Risk taking, impulsivity, brain, life span, convergence _
 * Early Postdoc.Mobility grant from the Swiss National Science Foundation
 * Postdoctoral grant from the University of Basel Research Fund for Excellent Junior Researchers
 * Penny Willow Prize for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London
+
+## Mentoring and outreach activities
+* Organization Committee of [BEACON 2022](https://psychologie.unibas.ch/de/beacon/)
+* Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
 
 ## Peer review activities
 I have written reviews for several journals, including _Experimental and Clinical Psychopharmacology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Experimental Psychology: General, Journal of Gerontology: Psychological Sciences, Psychological Science, Psychology and Aging, Scientific Reports, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/).  

@@ -2,7 +2,15 @@
 title: "Publications"
 output: distill::distill_article
 ---
-For an online list of publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. To note, earlier publications appear under the surname Mamerow.
+For an automated list of my publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. Note, earlier publications appear under the surname Mamerow.
+
+
+## Preprints and manuscripts submitted for peer review
+<p style="text-align:justify;">
++ Bagaïni, A., Liu, Y., Bajrami, A., Son, G., Tisdall, L., & Mata, R. (2022). Age Differences in Economic Preferences: Cumulative meta-analyses of risk, time, and social preferences. *[Find the preprint here.](https://doi.org/10.31234/osf.io/rwqf2)* 
++ Tisdall, L., Frey, R., Wulff, D.U., Kellen, D., & Mata, R. (2022). A multiverse analysis of age effects on risk preference, impulsivity, and self-control. *[Find the preprint here.](https://doi.org/10.31219/osf.io/uj359)* 
++ Tisdall, L., & Mata, R. (2022). Age Differences in the Neural Basis of Decision-Making under Uncertainty.
+
 
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
@@ -31,7 +39,6 @@ For an online list of publications and further information, see my **[Google Sch
 + Coveney, J., Henderson, J., Meyer, S., Mamerow, L., Taylor, A., Ward, P., & Wilson, A. (2015). Consumer Trust. _The SAGE Encyclopedia of Food Issues_. SAGE Publications, Inc. *[Find the chapter here.](https://www.researchgate.net/profile/Paul-Ward/publication/276921180_Consumer_Trust_in_Food/links/57d8d7cb08ae601b39afb568/Consumer-Trust-in-Food.pdf)*
 
 ## Working papers 
-* Tisdall, L., Frey, R., Wulff, D. U., Kellen, D., & Mata, R. (2022). Evaluating the effect of age on varying measures of risk preference using Specification Curve Analysis.
 * Tisdall, L., MacNiven, K. H., Leong, J. K., Frey, R., Rieskamp, J., Hertwig, R., Knutson, B., & Mata, R. (2022). A conNAcctomic approach to identifying robust structural correlates of risk preference.
 
 ## Other contributions
