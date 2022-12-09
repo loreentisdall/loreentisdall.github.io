@@ -40,6 +40,7 @@ library(postcards)
 * Organization Committee of [BEACON 2022](https://psychologie.unibas.ch/de/beacon/)
 * Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
 
+
 ## Peer review activities
-I have written reviews for several journals, including _Experimental and Clinical Psychopharmacology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Experimental Psychology: General, Journal of Gerontology: Psychological Sciences, Psychological Science, Psychology and Aging, Scientific Reports, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/).  
+I have written reviews for several journals, including _Gerontology, Experimental and Clinical Psychopharmacology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Experimental Psychology: General, Journal of Gerontology: Psychological Sciences, Psychological Science, Psychology and Aging, Scientific Reports, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/). I am also a regular reviewer for the [Ethics Committee of the Faculty of Psychology, University of Basel](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/).  
 
