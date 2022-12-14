@@ -17,7 +17,7 @@ For an automated list of my publications and further information, see my **[Goog
 <p style="text-align:justify;">
 + Bagaïni, A., Liu, Y., Bajrami, A., Son, G., Tisdall, L., & Mata, R. (2022). Age Differences in Economic Preferences: Cumulative meta-analyses of risk, time, and social preferences. *[Find the preprint here.](https://doi.org/10.31234/osf.io/rwqf2)* 
 + Tisdall, L., Frey, R., Wulff, D.U., Kellen, D., & Mata, R. (2022). A multiverse analysis of age effects on risk preference, impulsivity, and self-control. *[Find the preprint here.](https://doi.org/10.31219/osf.io/uj359)* 
-+ Tisdall, L., & Mata, R. (2022). Age Differences in the Neural Basis of Decision-Making under Uncertainty.
++ Tisdall, L., & Mata, R. (2022). Age Differences in the Neural Basis of Decision-Making under Uncertainty. *[Find the preprint here.](https://osf.io/tb9ny)* 
 
 
 ## Peer-reviewed journal articles
