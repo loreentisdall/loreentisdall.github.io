@@ -17,11 +17,11 @@ For an automated list of my publications and further information, see my **[Goog
 <p style="text-align:justify;">
 + Bagaïni, A., Liu, Y., Bajrami, A., Son, G., Tisdall, L., & Mata, R. (2022). Age Differences in Economic Preferences: Cumulative meta-analyses of risk, time, and social preferences. *[Find the preprint here.](https://doi.org/10.31234/osf.io/rwqf2)* 
 + Tisdall, L., Frey, R., Wulff, D.U., Kellen, D., & Mata, R. (2022). A multiverse analysis of age effects on risk preference, impulsivity, and self-control. *[Find the preprint here.](https://doi.org/10.31219/osf.io/uj359)* 
-+ Tisdall, L., & Mata, R. (2022). Age Differences in the Neural Basis of Decision-Making under Uncertainty. *[Find the preprint here.](https://osf.io/tb9ny)* 
 
 
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
++ Tisdall, L., & Mata, R. (in press). Age differences in the neural basis of decision-making under uncertainty. _Cognitive, Affective, & Behavioral Neuroscience_. *[Find the preprint here.](https://osf.io/tb9ny)* 
 + Tisdall, L., MacNiven, K. H., Padula, C. B., Leong, J. K., & Knutson, B. (2022). Brain tract structure predicts relapse to stimulant drug use. _Proceedings of the National Academy of Sciences, 119_(26), e2116703119. *[Find the paper here.](https://www.pnas.org/doi/10.1073/pnas.2116703119)* 
 + Tisdall, L., Frey, R., Horn, A., Ostwald, D., Horvath, L., Pedroni, A., ... & Mata, R. (2020). Brain–behavior associations for risk taking depend on the measures used to capture individual differences. _Frontiers in Behavioral Neuroscience, 14,_ 194. *[Find the paper here.](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.587152/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Behavioral_Neuroscience&id=587152)*
 + Botvinik-Nezer, R., Holzmeister, F., Camerer, C. F., Dreber, A., Huber, J., Johannesson, M., ... & Rieck, J. R. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. _Nature, 582_(7810), 84-88. *[Find the paper here.](https://www.nature.com/articles/s41586-020-2314-9?fbclid=IwAR3jkR1Gkraxbig5vbUz0d0_bVOTCzAFGoCmnRQMG5jpcDwiApCjxZHNHrQ)*
