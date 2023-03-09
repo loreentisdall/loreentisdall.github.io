@@ -21,7 +21,7 @@ library(postcards)
 
 ## Completed 
 
-* **AgeUncertainty** (2022) 
+* **AgeUncertainty** (2023) 
   + <p style="text-align:justify;">In this project we investigated the effect of age on neural correlates of decision-making under uncertainty. We were particularly interested in examining common and unique effects of age on the neural correlates of different kinds of uncertainty, namely paradigms of risk and temporal discounting. The key collaborator is [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/). This paper is currently under review.</p>
 * **AgeRisk 2.0** (2016-2022)
   + <p style="text-align:justify;">In this project we are investigating the effect of age on individual differences in risk preference and related constructs (impulsivity and self-control) in a healthy human life span sample. A particular focus of this project is to examine the extent to which associations between age and the different constructs differ as a function of whether we use self reports, behavioral measures, informant reports, or neuroimaging to assess risk preference, impulsivity, or self-control. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Dirk Wulff](https://www.dirkwulff.org), and [David Kellen](https://thecollege.syr.edu/people/faculty/kellen-phd-david/). The paper is currently under review, here is the [link](https://doi.org/10.31219/osf.io/uj359) to our preprint.</p>
