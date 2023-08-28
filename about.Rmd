@@ -13,16 +13,18 @@ library(postcards)
 
 ## Research interests 
 
-**Keywords: risk taking, impulsivity, externalizing, brain structure, life span, measurement convergence, neural mechanisms**
+**Keywords: risk taking, impulsivity, externalizing, brain structure, lifespan, measurement convergence, neural mechanisms**
 
 <p style="text-align:justify;">In my work I focus on risk- and impulsivity related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
 
 <p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys and neuroimaging studies, and I use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and policing.</p>
 
+
 ## Positions
 * 05/2020 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
 * 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+
 
 ## Education 
 * 09/2014 - 06/2018: PhD Psychology, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
@@ -31,16 +33,22 @@ library(postcards)
 * 10/2008 - 11/2009: MSc Crime Science, University College London, UK
 * 10/2005 - 08/2008: BSc(Hons) Psychology, Goldsmiths' College, University of London, UK
 
+
 ## Grants and awards
-* Early Postdoc.Mobility grant from the Swiss National Science Foundation
-* Postdoctoral grant from the University of Basel Research Fund for Excellent Junior Researchers
-* Penny Willow Prize for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London
+* 2023: [Open Data Award](https://srndna.utdallas.edu/awards/open-data-awards/) from the Scientific Research Network On Decision Neuroscience & Aging
+* 2023: [Cross-Border Education Grant](https://www.unibas.ch/de/Universitaet/Administration-Services/Generalsekretariat/Eucor-The-European-Campus/Crossborder-Education-Grant.html) (with Dr. Dorothée Bentz and Prof. Dr. Tara Donker)
+* 2019: Early Postdoc.Mobility Grant from the Swiss National Science Foundation
+* 2018: Postdoctoral Grant from the University of Basel Research Fund for Excellent Junior Researchers
+* 2015: Student travel grant to attend and present poster at the Scientific Research Network on Decision Neuroscience and Aging conference, Miami, FL.
+* 2009: Penny Willow Prize for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London
+
 
 ## Mentoring and outreach activities
-* Organization Committee of [BEACON 2022](https://psychologie.unibas.ch/de/beacon/)
-* Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
+* 2023: Participation in [Rendez-vous](https://www.rendez-vous-science.ch/forschende), organized by Science et Cité and Reatch 
+* 2022 - present: Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
+* 2022: Organization Committee of [BEACON](https://psychologie.unibas.ch/de/beacon/)
 
 
 ## Peer review activities
-I have written reviews for several journals, including _Psychological Science, Psychology and Aging, Scientific Reports, Journal of Experimental Psychology: General, Gerontology, Experimental and Clinical Psychopharmacology, Thinking & Reasoning, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Gerontology: Psychological Sciences, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/). I am also a regular reviewer for the [Ethics Committee of the Faculty of Psychology, University of Basel](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/).  
+I have written reviews for several journals, including _Psychological Science, PLoS One, Psychology and Aging, Scientific Reports, Journal of Experimental Psychology: General, Gerontology, Experimental and Clinical Psychopharmacology, Thinking & Reasoning, Cognitive Psychology, Cognition and Emotion, Psychophysiology, Cognitive Psychology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Gerontology: Psychological Sciences, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/). I am also a regular reviewer for the [Ethics Committee of the Faculty of Psychology, University of Basel](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/).  
 

@@ -26,43 +26,41 @@ library(postcards)
 ## Prerequisites
 None.
 
-## Sessions Spring Semester 2023
-The Negotiation seminar in FS23 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+1).
+## Sessions Autumn Semester 2023
+The Negotiation seminar in HS23 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+1). Also check the University of Basel [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=275808). All course materials will be circulated via ADAM. 
 
 
 |  WEEK   |    DATE     | TOPIC                                                               | NOTE             | 
 | :------:| ---------   | ------------------------------------------------------------------- | ---------------- | 
-| 1       | 21.02.23    | **Course overview & introduction**                                  |                  | 
-| 2       | 28.02.23    | Fasnacht                                                            | *No seminar*     |             
-| 3       | 07.03.23    | **Negotiation theory**                                              
-|         |             | + Raiffa et al. (2007), Chapters 1-4.                               |                  |
-| 4       | 14.03.23    | **Preparing for negotiation: BATNA, ZOPA, RV, TV**                  
+| 1       | 19.09.23    | **Course overview & introduction**                                  |                  | 
+| 2       | 26.09.23    | **Negotiation theory**                                              
+|         |             | + Raiffa et al. (2007), Chapters 1-4.                               |                  |            
+| 3       | 03.10.23    | **Preparing for negotiation: BATNA, ZOPA, RV, TV**                  
 |         |             | + Malhotra & Bazerman (2007), Chapters 1-2.                         
 |         |             | + Raiffa et al. (2007), Chapter 7.                                  |                  |
-| 5       | 21.03.23    | **Distributive negotiation: Exercise**                              
+| 4       | 10.10.23    | **Distributive negotiation: Exercise**                              
 |         |             | + Raiffa et al. (2007). Chapters 6-7.                               |                  |
-| 6       | 28.03.23    | **Integrative negotiation: Exercise**                               
+| 5       | 17.10.23    | **Integrative negotiation: Exercise**                               
 |         |             | + Malhotra & Bazerman (2007). Chapters 2-3.
 |         |             | + Raiffa et al. (2007). Chapters 11-14.                             |                  |
-| 7       | 04.04.23    | **Real world negotiation: Influence and persuasion**                               
+| 6       | 24.10.23    |  **Real world negotiation: Influence and persuasion**                               
 |         |             | + Malhotra & Bazerman (2007). Chapters 7, 12.
 |         |             | + Raiffa et al. (2007). Chapter 15.                             
 |         |             | + [Cialdini. R.B. (2004). The science of persuasion. Scientific American Mind, 14, 1, 70-77.](https://www.jstor.org/stable/24939368) | |
-| 8       | 11.04.23    | **Distributive & integrative negotiation: Exercise**                
+| 7       | 31.10.23    | **Reading week**                                                    | *No seminar*     |
+| 8       | 07.11.23    | **Distributive & integrative negotiation: Exercise**                
 |         |             | + Malhotra & Bazerman (2007), Chapters 1-2.  
 |         |             | + Raiffa et al. (2007). Chapters 6-7, 11-14.                        |                  |
-| 9       | 18.04.23    | **Negotiating via agents: Exercise**        
-|         |             | + Malhotra & Bazerman (2007). Chapters 6, 10-11.                        
-|         |             | + Raiffa et al. (2007). Chapters 22-23.                             |                  | 
-| 10      | 25.04.23    | **Real world negotiation: ethics, lies, & power**                        
+| 9       | 14.11.23    | **Real world negotiation: ethics, lies, & power**                        
 |         |             | + Malhotra & Bazerman (2007). Chapters 9-12.
 |         |             | + Raiffa et al. (2007). Chapter 15.                                 |                  |
-| 11      | 02.05.23    | **Multi-party negotiation: Intro & Exercise**                       
+| 10      | 21.11.23    | **Multi-party negotiation: Intro & Exercise**                       
 |         |             | + Raiffa et al. (2007). Chapter 21.                                 |                  |
-| 12      | 09.05.23    | **Group presentation preparation**                                 | *Asynchronus*    |   
-| 13      | 16.05.23    | **Group presentations**                                             |                  | 
-| 14      | 23.05.23    | **Group presentations**                                             |                  | 
-| 15      | 30.05.23    | **Q&A theory paper**                                                |                  |
+| 11      | 28.11.23    | **Group presentation preparation**                                  | *Asynchronus*    | 
+| 12      | 05.12.23    | **Group presentations**                                             |                  |  
+| 13      | 12.12.23    | **Group presentations**                                             |                  |
+| 14      | 19.12.23    | **Wrap-up & theory paper Q&A**                                      | *Optional*       |
+
 
                       
 
