@@ -27,49 +27,47 @@ library(postcards)
 ## Prerequisites
 <p style="text-align:justify;">Basic programming skills in R (Studio) are essential for some of the weekly exercises. To practice and further develop your R skills, we will identify individually relevant opportunities for asynchronous learning, including online R tutorials and literature recommendations. </p>
 
-## Sessions Spring Semester 2023
-The Forecasting seminar in FS23 takes place on Tuesdays, 10:15 am - 11:45 am (GMT+1).
+## Sessions Spring Semester 2024
+The Forecasting seminar in FS24 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+1).
 
-
-|  WEEK   |    DATE     | TOPIC                                                                     | NOTE             | 
-| :------:| ---------   | -------------------------------------------------------------------       | ---------------- | 
-| 1       | 21.02.23    | **Course overview & introduction**                                        |                  |
-| 2       | 28.02.23    | Fasnacht                                                                  | *No seminar*     |  
-| 3       | 07.03.23    | **Basic programming in RStudio**                                          | *Asynchronous*   | 
-| 4       | 14.03.23    | **Overview of forecasting methods and intro to scoring rules**              
+|  WEEK   |    DATE     | TOPIC                                                                     
+| :------:| ---------   | -------------------------------------------------------------------       
+| 1       | 27.02.24    | **Course overview & introduction**                                        |                  
+| 2       | 05.03.24    | **Overview of forecasting methods and scoring rules**              
 |         |             | + [Green, K. C., Graefe, A., & Armstrong, J. S. (2011). Forecasting Principles. In M. Lovric (Ed.), International Encyclopedia of Statistical Science (pp. 527–534). Springer.](https://doi.org/10.1007/978-3-642-04898-2_257)   
-|         |             | + [Armstrong, J. S. (2006). Findings from evidence-based forecasting: Methods for reducing forecast error. International Journal of Forecasting, 22(3), 583–598.](https://doi.org/10.1016/j.ijforecast.2006.04.006)   |  |
-| 5       | 21.03.23    | **Judgmental forecasting I: General framework for judgment**              |                   |      
-|         |             | + Hastie, R., & Dawes, R. M. (2010). A general framework for judgment. In R. Hastie & R. M. Dawes (Eds.), Rational choice in an uncertain world: The psychology of judgment and decision making (2nd ed., pp. 45–69). SAGE. 
-|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2021). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 4). OTexts.](https://otexts.com/fpp3/judgmental.html) | | 
-| 6       | 28.03.23    | **Judgmental forecasting II: Group methods**                               
+|         |             | + [Armstrong, J. S. (2006). Findings from evidence-based forecasting: Methods for reducing forecast error. International Journal of Forecasting, 22(3), 583–598.](https://doi.org/10.1016/j.ijforecast.2006.04.006)   |  
+| 3       | 12.03.24    | **Judgmental forecasting I: General framework for judgment**              |                   |      
+|         |             | + Hastie, R., & Dawes, R. M. (2010). A general framework for judgment. In R. Hastie & R. M. Dawes (Eds.), Rational choice in an uncertain world: The psychology of judgment and decision making (2nd ed., pp. 45–69). SAGE.
+|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2021). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 4). OTexts.](https://otexts.com/fpp3/judgmental.html) | 
+| 4       | 19.03.24    | **Judgmental forecasting II: Group methods**                               
 |         |             | + [Rowe, G., & Wright, G. (1999). The Delphi technique as a forecasting tool: Issues and analysis. International Journal of Forecasting, 15(4), 353–375.]( https://doi.org/10.1016/S0169-2070(99)00018-7)   
-|         |             | + [Hastie, R., & Kameda, T. (2005). The robust beauty of majority rules in group decisions. Psychological Review, 112(2), 494–508.](https://doi.org/10.1037/0033-295X.112.2.494)   |  |  
-| 7       | 04.04.23    | **Judgmental forecasting III: Heuristics and Biases**                                                
+|         |             | + [Hastie, R., & Kameda, T. (2005). The robust beauty of majority rules in group decisions. Psychological Review, 112(2), 494–508.](https://doi.org/10.1037/0033-295X.112.2.494)   |  
+| 5       | 26.03.24    | **Judgmental forecasting III: Heuristics and biases**                                                
 |         |             | + [Arkes, H. R. (2001). Overconfidence in Judgmental Forecasting. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 495–515). Kluwer.](https://www.researchgate.net/profile/Hal-Arkes/publication/247089566_Overconfidence_in_Judgmental_Forecasting/links/5c48d7e1a6fdccd6b5c42ac8/Overconfidence-in-Judgmental-Forecasting)   
-|         |             | + [Hogarth, R. M. (2006). On ignoring scientific evidence: The bumpy road to enlightenment. In SSRN 1002512.](https://repositori.upf.edu/bitstream/handle/10230/1034/973.pdf?sequence=1&isAllowed=y) | |  
-| 8       | 11.04.23    | **Judgmental versus statistical forecasting / General(ized) linear models**                                                        
+|         |             | + [Hogarth, R. M. (2006). On ignoring scientific evidence: The bumpy road to enlightenment. In SSRN 1002512.](https://repositori.upf.edu/bitstream/handle/10230/1034/973.pdf?sequence=1&isAllowed=y) |  
+| 6       | 02.04.24    | **Judgmental versus statistical forecasting / General(ized) linear models**                                                        
 |         |             | + [Dawes, R. M., Faust, D., & Meehl, P. E. (1989). Clinical versus actuarial judgment. Science, 243(4899), 1668–1674.](https://doi.org/10.1126/science.2648573) 
 |         |             | + [Yaniv, I., & Hogarth, R. M. (1993). Judgmental versus Statistical Prediction: Information Asymmetry and Combination Rules. Psychological Science, 4(1), 58–62.]( https://doi.org/10.1111/j.1467-9280.1993.tb00558.x)   
 |         |             | + [Song, C. U., Boulier, B. L., & Stekler, H. O. (2007). The comparative accuracy of judgmental and model forecasts of American football games. International Journal of Forecasting, 23(3), 405–413.](https://doi.org/10.1016/j.ijforecast.2007.05.003) 
 |         |             | + [Dawes, R. M. (1979). The robust beauty of improper linear models in decision making. American Psychologist, 34(7), 571–582.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.5825&rep=rep1&type=pdf)  
-|         |             | + [Armstrong, J. S. (2001). Judgmental Bootstrapping: Inferring Experts’ Rules for Forecasting. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 171–192). Kluwer.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1178&=&context=marketing_papers&=&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C5%2526q%253DJudgmental%252BBootstrapping%25253A%252BInferring%252BExperts%2525E2%252580%252599%252BRules%252Bfor%252BForecasting%2526btnG%253D#search=%22Judgmental%20Bootstrapping%3A%20Inferring%20Experts’%20Rules%20Forecasting%22) | | 
-| 9       | 18.04.23    | **Statistical forecasting I: RStudio session (tsibbles, plotting, seasonal patterns)**               
-|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021). Time series graphics. _Forecasting: Principles and Practice_, 3rd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp3/graphics.html. Accessed on 17.04.2023.](https://otexts.com/fpp3/graphics.html) | | 
-| 10      | 25.04.23    | **Statistical forecasting II: Time-series analysis I**                     
+|         |             | + [Armstrong, J. S. (2001). Judgmental Bootstrapping: Inferring Experts’ Rules for Forecasting. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 171–192). Kluwer.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1178&=&context=marketing_papers&=&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C5%2526q%253DJudgmental%252BBootstrapping%25253A%252BInferring%252BExperts%2525E2%252580%252599%252BRules%252Bfor%252BForecasting%2526btnG%253D#search=%22Judgmental%20Bootstrapping%3A%20Inferring%20Experts’%20Rules%20Forecasting%22) | 
+| 7       | 09.04.24    | **Introduction to statistical forecasting using RStudio: tsibbles, plotting, seasonal patterns**               
+|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021). Time series graphics. _Forecasting: Principles and Practice_, 3rd edition, OTexts: Melbourne, Australia. https://otexts.com/fpp3/graphics.html. Accessed on 17.04.2023.](https://otexts.com/fpp3/graphics.html) | 
+| 8       | 16.04.24    | **RStudio bootcamp _(Asynchronus)_**                                          
+| 9       | 23.04.24    | **Statistical forecasting I: Time-series analysis I**                     
 |         |             | + [Armstrong, J. S. M. (2001). Extrapolation for time-series and cross-sectional data. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 215–243). Kluwer.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1179&context=marketing_papers)   
-|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts.](https://otexts.com/fpp3/) | | 
-| 11      | 02.05.23    | **Statistical forecasting III: Time-series analysis II**     
+|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts.](https://otexts.com/fpp3/) |
+| 10      | 30.04.24    | **Statistical forecasting II: Time-series analysis II**     
 |         |             | + [Armstrong, J. S. M. (2001). Extrapolation for time-series and cross-sectional data. In J. S. Armstrong (Ed.), Principles of Forecasting: A Handbook for Researchers and Practitioners (pp. 215–243). Kluwer.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1179&context=marketing_papers)  
-|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts.](https://otexts.com/fpp3/) |       |   
-| 12      | 09.05.23    | **Statistical forecasting IV: Overfitting, outliers, & selection bias / Machine learning**               
+|         |             | + [Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: Principles and Practice, 3rd edition, OTexts.](https://otexts.com/fpp3/) |        
+| 11      | 07.05.24    | **Statistical forecasting III: Overfitting, selection bias, & machine learning**               
 |         |             | + [Babyak, M. A. (2004). What you see may not be what you get: A brief, nontechnical introduction to overfitting in regression-type models. Psychosomatic Medicine, 66(3), 411–421.](https://doi.org/10.1097/01.psy.0000127692.23278.a9) 
-|         |             | + [Yarkoni, T., & Westfall, J. (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, 12(6), 1100–1122.](https://doi.org/10.1177/1745691617693393)   | |  
-| 13      | 16.05.23    | **Statistical forecasting V: Forecasting in social settings**                                           
+|         |             | + [Yarkoni, T., & Westfall, J. (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, 12(6), 1100–1122.](https://doi.org/10.1177/1745691617693393)   | 
+| 12      | 14.05.24    | **Statistical forecasting IV: Forecasting in social settings**                                           
 |         |             | + [Makridakis, S., Hyndman, R. J., & Petropoulos, F. (2020). Forecasting in social settings: The state of the art. International Journal of Forecasting, 36(1), 15–28.](https://doi.org/10.1016/j.ijforecast.2019.05.011)  
-|         |             | + [Science special issue on _Prediction_.](https://www.science.org/toc/science/355/6324) | |  
-| 14      | 23.05.23    | **Student presentations**   
-| 15      | 30.05.23    | **Student presentations**                                                                | |            
+|         |             | + [Science special issue on _Prediction_.](https://www.science.org/toc/science/355/6324) | 
+| 13      | 21.05.24    | **Student presentations**                                                                | 
+| 14      | 28.05.24    | **Student presentations**                                                                | 
 
 
 
