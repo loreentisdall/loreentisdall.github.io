@@ -16,7 +16,6 @@ For an automated list of my publications and further information, see my **[Goog
 ## Manuscripts submitted for peer review
 <p style="text-align:justify;">
 + Tisdall, L., MacNiven, K. H., Leong, J. K., Frey, R., Rieskamp, J., Hertwig, R., Knutson, B., & Mata, R. (2023). Structure of connections to the nucleus accumbens link to specific but not general measures of human risk preference. *[Preprint](https://osf.io/ab4vr/).* 
-+ Tisdall, L., Mugume, S., Kellen, D., & Mata, R. (2023). Lifespan trajectories of risk preference, impulsivity, and self-control: A dataset containing self-report, informant-report, behavioral, hormone and functional neuroimaging measures from a cross-sectional human sample. *[Preprint](https://osf.io/y6jfb/)* 
 + Bagaïni, A., Liu, Y., Kapoor, M., Son, G., Brückner, P.-C., Tisdall, L., & Mata, R. (2023). Comparing the Temporal Stability and Convergent Validity of Risk Preference Measures: A Meta-Analytic Approach. *[Preprint](https://osf.io/5kzgd/)* 
 
 ## Working papers
@@ -24,6 +23,7 @@ For an automated list of my publications and further information, see my **[Goog
 
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
++ Tisdall, L., Mugume, S., Kellen, D., & Mata, R. (accepted for publication). Lifespan trajectories of risk preference, impulsivity, and self-control: A dataset containing self-report, informant-report, behavioral, hormone and functional neuroimaging measures from a cross-sectional human sample. _Data in Brief_. *[Preprint](https://osf.io/y6jfb/)* 
 + Tisdall, L., & Mata, R. (2023). Age differences in the neural basis of decision-making under uncertainty. _Cognitive, Affective, & Behavioral Neuroscience_, doi: 10.3758/s13415-022-01060-6. *[Paper](https://doi.org/10.3758/s13415-022-01060-6)* 
 + Bagaïni, A., Liu, Y., Bajrami, A., Son, G., Tisdall, L., & Mata, R. (2023). Aging and Economic Preferences: Cumulative meta-analyses of age differences in risk, time, social, and effort preferences. _The Journals of Gerontology: Series B_, gbad034. *[Paper](https://doi.org/10.1093/geronb/gbad034)* 
 + Tisdall, L., MacNiven, K. H., Padula, C. B., Leong, J. K., & Knutson, B. (2022). Brain tract structure predicts relapse to stimulant drug use. _Proceedings of the National Academy of Sciences, 119_(26), e2116703119. *[Paper](https://www.pnas.org/doi/10.1073/pnas.2116703119)* 
