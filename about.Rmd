@@ -45,7 +45,7 @@ library(postcards)
 
 ## Mentoring and outreach activities
 * 2023: Participation in [Rendez-vous](https://www.rendez-vous-science.ch/forschende), organized by Science et Cité and Reatch 
-* 2022 - present: Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
+* 2022 - 2023: Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
 * 2022: Organization Committee of [BEACON](https://psychologie.unibas.ch/de/beacon/)
 
 
