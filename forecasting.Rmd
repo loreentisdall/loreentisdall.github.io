@@ -38,7 +38,7 @@ The Forecasting seminar in FS24 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+
 |         |             | + [Armstrong, J. S. (2006). Findings from evidence-based forecasting: Methods for reducing forecast error. International Journal of Forecasting, 22(3), 583–598.](https://doi.org/10.1016/j.ijforecast.2006.04.006)   |  
 | 3       | 12.03.24    | **Judgmental forecasting I: General framework for judgment**              |                   |      
 |         |             | + Hastie, R., & Dawes, R. M. (2010). A general framework for judgment. In R. Hastie & R. M. Dawes (Eds.), Rational choice in an uncertain world: The psychology of judgment and decision making (2nd ed., pp. 45–69). SAGE.
-|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2021). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 4). OTexts.](https://otexts.com/fpp3/judgmental.html) | 
+|         |             | + [Hyndman, R.J. & Athanasopoulos, G. (2021). Judgmental forecasts. In R. Hyndman & G. Athanasopoulos (Eds.), Forecasting: Principles and Practice (chapter 6). OTexts.](https://otexts.com/fpp3/judgmental.html) | 
 | 4       | 19.03.24    | **Judgmental forecasting II: Group methods**                               
 |         |             | + [Rowe, G., & Wright, G. (1999). The Delphi technique as a forecasting tool: Issues and analysis. International Journal of Forecasting, 15(4), 353–375.]( https://doi.org/10.1016/S0169-2070(99)00018-7)   
 |         |             | + [Hastie, R., & Kameda, T. (2005). The robust beauty of majority rules in group decisions. Psychological Review, 112(2), 494–508.](https://doi.org/10.1037/0033-295X.112.2.494)   |  
