@@ -21,7 +21,7 @@ library(postcards)
 
 
 ## Positions
-* 05/2020 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+* 05/2021 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
 * 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 
