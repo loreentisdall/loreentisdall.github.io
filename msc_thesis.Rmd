@@ -1,5 +1,5 @@
 ---
-title: "Master thesis"
+title: "Master's thesis"
 output:
   postcards::trestles
 ---
@@ -11,38 +11,46 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
-# Overview
-The MSc project involves a number of training opportunities concerning theory, methods, and communication skills. Regardless of the chosen topic, students can explore, learn about and adopt (several) different methodological approaches, including scoping reviews, systematic reviews, meta-analyses, and translate their findings using visualization tools. Depending on interest and feasibility, students are welcome to suggest their own topics and adopt alternative scientific methodologies, including developing and running online surveys or experiments. Please see the [CDS webpage](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/msc-project/) for the structure of MSc projects and associated learning opportunities at the Center for Cognitive and Decision Sciences. The MSc project and thesis can be carried out in either German or English. 
+```{css}
+a {
+    color: #E57248;
+}
 
-Please do not hesitate to contact me directly via [email](loreen.tisdall@unibas.ch) if you have any questions about writing a Master thesis, and see the [curriculum](https://vorlesungsverzeichnis.unibas.ch/de/home) for further details.
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
 
+### Identifying phenotypes of externalizing disorders
 
-## Topic 1: Identifying phenotypes of externalizing disorders
 <p style="text-align:justify;">Externalizing refers to a collective of behaviors and disorders often associated with self-regulation, including antisocial behavior, substance use, and other key outcomes of health, wealth, and general well-being (e.g., [Karlsson Linnér et al., 2021, Nature Neuroscience](https://doi.org/10.1038/s41593-021-00908-3)). The societal and personal costs of (disordered) externalizing, including unemployment, incarceration, addiction, to name but a few, are evidently huge. To intervene and, ideally, prevent externalizing behaviors from negatively affecting individuals and societies alike, we first must understand how to study externalizing and how externalizing relates to other constructs (e.g., impulsivity, risk preference). In a second step, we can try to identify biological (e.g., brain) and behavioral phenotypes that explain and/or predict externalizing.</p>
 
-<p style="text-align:justify;">To help us in our endeavor to better study and, ultimately, understand externalizing and its (brain) basis, we are looking for students interested in (pre/sub) clinical disorders, cognitive or affective neuroscience, brain imaging, large-scale human (imaging) studies (e.g., ABCD, Human Connectome Project, UK Biobank) or other related topics. In this Masterprojekt, students have the opportunity to explore a variety of topics and research methods, including how to identify and access data sets of large-scale human (imaging) studies, research synthesis methods (e.g., scoping reviews, systematic reviews, meta-analyses), and secondary data analysis of human imaging and/or behavioral data. Students will also be encouraged to establish connections with practitioners in the field of externalizing disorders via Meet-the-Expert events, journal clubs, and other practically-oriented formats. Interested students are highly welcome to suggest and adopt (assuming feasibility) alternative scientific methodologies and address questions of their own interest.</p>
+<p style="text-align:justify;">To help us in our endeavor to better study and, ultimately, understand externalizing and its (brain) basis, we are looking for students interested in (pre/sub) clinical disorders, cognitive or affective neuroscience, brain imaging, large-scale human (imaging) studies (e.g., ABCD, Human Connectome Project, UK Biobank) or other related topics. In this project, students have the opportunity to explore a variety of topics and research methods, including how to identify and access data sets of large-scale human (imaging) studies, research synthesis methods (e.g., scoping reviews, systematic reviews, meta-analyses), and secondary data analysis of human imaging and/or behavioral data.</p>
+
+<p style="text-align:justify;">Completing a Master's thesis involves a number of training opportunities concerning theory, methods, and communication skills. Regardless of the chosen topic, students can explore, learn about and adopt (several) different methodological approaches, including scoping reviews, systematic reviews, meta-analyses, and translate their findings using visualization tools. Depending on interest and feasibility, students are welcome to suggest their own topics and adopt alternative scientific methodologies, including developing and running online surveys or experiments..</p>
 
 
-## Topic 2: Making negotiations work (for you): A scientific approach to understanding negotiation processes and outcomes
-<p style="text-align:justify;">The idea that some people are born negotiators who employ the art of negotiation to achieve maximally beneficial results for their own purpose is a pervasive one, yet it is scientifically questionable. Instead, there may be much more of a science of negotiation, which can help individuals to prepare for, engage in, and close negotiations, and to do so more successfully. Negotiations are complex, of course, with outcomes ranging from getting the purchase price down on a new bike, to deciding the future of company employees during a takeover, or ending a hostage situation peacefully and without injury. By examining negotiations scientifically, we can establish basic principles that hold across different negotiation situations, which in turn allow us to identify factors that influence negotiation processes and outcomes.</p>
+<!-- ## Topic 2: Making negotiations work (for you): A scientific approach to understanding negotiation processes and outcomes -->
+<!-- <p style="text-align:justify;">The idea that some people are born negotiators who employ the art of negotiation to achieve maximally beneficial results for their own purpose is a pervasive one, yet it is scientifically questionable. Instead, there may be much more of a science of negotiation, which can help individuals to prepare for, engage in, and close negotiations, and to do so more successfully. Negotiations are complex, of course, with outcomes ranging from getting the purchase price down on a new bike, to deciding the future of company employees during a takeover, or ending a hostage situation peacefully and without injury. By examining negotiations scientifically, we can establish basic principles that hold across different negotiation situations, which in turn allow us to identify factors that influence negotiation processes and outcomes.</p> -->
 
-<p style="text-align:justify;">For this project, students adopt a scientific approach to examining one or several of the following (or related) research questions:</p>
-+ What are the main stages and processes characteristic of negotiations? 
-+ Which personal (e.g., cognition, affect, motivation), structural (e.g., culture, power status, number and nature of negotiating parties) and/or situational (e.g., time constraints, repeated interactions) + factors have an influence on negotiation processes and outcomes? 
-+ What are the implications of influencing factors for optimizing negotiation processes and outcomes? What does optimization in this context mean, and for whom (i.e., for one or all parties involved)?
-+ Can we find informative visualizations (e.g., flow chart, process flow diagrams, etc.?) of negotiation processes, influencing variables and outcomes for the purpose of scientific communication? 
-+ What’s new in negotiation? The emergence of E-Negotiations and how these differ from traditional (in-person) negotiations.
+<!-- <p style="text-align:justify;">For this project, students adopt a scientific approach to examining one or several of the following (or related) research questions:</p> -->
+<!-- + What are the main stages and processes characteristic of negotiations?  -->
+<!-- + Which personal (e.g., cognition, affect, motivation), structural (e.g., culture, power status, number and nature of negotiating parties) and/or situational (e.g., time constraints, repeated interactions) + factors have an influence on negotiation processes and outcomes?  -->
+<!-- + What are the implications of influencing factors for optimizing negotiation processes and outcomes? What does optimization in this context mean, and for whom (i.e., for one or all parties involved)? -->
+<!-- + Can we find informative visualizations (e.g., flow chart, process flow diagrams, etc.?) of negotiation processes, influencing variables and outcomes for the purpose of scientific communication?  -->
+<!-- + What’s new in negotiation? The emergence of E-Negotiations and how these differ from traditional (in-person) negotiations. -->
 
-For background literature, check out [Raiffa, H. E., Richardson, J., & Metcalfe, D. (2007). _Negotiation analysis: The science and art of collaborative decision making._ Cambridge: Harvard University Press.](https://books.google.ch/books?hl=en&lr=&id=e2n9DwAAQBAJ&oi=fnd&pg=PT6&dq=Negotiation+analysis:+The+science+and+art+of+collaborative+decision+making&ots=40nVUGafcp&sig=JZVpC8mogdIkLAgD6U9jlikbEdU&redir_esc=y#v=onepage&q=Negotiation%20analysis%3A%20The%20science%20and%20art%20of%20collaborative%20decision%20making&f=false), and also this well-written and very accessibly structured book by [Malhotra, D. & Bazerman, M.H. (2007). _Negotiation genius._ New York: Dell.](https://books.google.ch/books?hl=en&lr=&id=ChWCIeUW3CEC&oi=fnd&pg=PA1&dq=Negotiation+Genius:+How+to+Overcome+Obstacles+and+Achieve+Brilliant+Results+at+the+Bargaining+Table+and+Beyond&ots=wQpnbOt7bA&sig=qdq_MKoxoUQDA_hnm_4QGMoZlj4&redir_esc=y#v=onepage&q=Negotiation%20Genius%3A%20How%20to%20Overcome%20Obstacles%20and%20Achieve%20Brilliant%20Results%20at%20the%20Bargaining%20Table%20and%20Beyond&f=false).
-
-
-
-
-
+<!-- For background literature, check out [Raiffa, H. E., Richardson, J., & Metcalfe, D. (2007). _Negotiation analysis: The science and art of collaborative decision making._ Cambridge: Harvard University Press.](https://books.google.ch/books?hl=en&lr=&id=e2n9DwAAQBAJ&oi=fnd&pg=PT6&dq=Negotiation+analysis:+The+science+and+art+of+collaborative+decision+making&ots=40nVUGafcp&sig=JZVpC8mogdIkLAgD6U9jlikbEdU&redir_esc=y#v=onepage&q=Negotiation%20analysis%3A%20The%20science%20and%20art%20of%20collaborative%20decision%20making&f=false), and also this well-written and very accessibly structured book by [Malhotra, D. & Bazerman, M.H. (2007). _Negotiation genius._ New York: Dell.](https://books.google.ch/books?hl=en&lr=&id=ChWCIeUW3CEC&oi=fnd&pg=PA1&dq=Negotiation+Genius:+How+to+Overcome+Obstacles+and+Achieve+Brilliant+Results+at+the+Bargaining+Table+and+Beyond&ots=wQpnbOt7bA&sig=qdq_MKoxoUQDA_hnm_4QGMoZlj4&redir_esc=y#v=onepage&q=Negotiation%20Genius%3A%20How%20to%20Overcome%20Obstacles%20and%20Achieve%20Brilliant%20Results%20at%20the%20Bargaining%20Table%20and%20Beyond&f=false). -->
 
 
 
-                      
+
+
+
+
+
+
 
 
 

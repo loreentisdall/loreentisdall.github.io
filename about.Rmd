@@ -11,11 +11,22 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
 ## Research interests 
 
 **Keywords: risk taking, impulsivity, externalizing, brain structure, lifespan, measurement convergence, neural mechanisms**
 
-<p style="text-align:justify;">In my work I focus on risk- and impulsivity related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
+<p style="text-align:justify;">In my work I focus on risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
 
 <p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys and neuroimaging studies, and I use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and policing.</p>\
 
@@ -31,16 +42,16 @@ library(postcards)
 * 10/2012 - 09/2014: MSc Social, Cognitive, and Affective Neuroscience, Free University Berlin, Berlin, Germany
 * 09/2011 - 11/2012: MRes Security Science, University College London, UK
 * 10/2008 - 11/2009: MSc Crime Science, University College London, UK
-* 10/2005 - 08/2008: BSc(Hons) Psychology, Goldsmiths' College, University of London, UK\
+* 10/2005 - 08/2008: BSc (Hons) Psychology, Goldsmiths' College, University of London, UK\
 
 
 ## Grants and awards
-* 2023: **Open Data Award** from the Scientific Research Network On Decision Neuroscience & Aging
-* 2023: **Cross-Border Education Grant** (with Dr. Dorothée Bentz and Prof. Dr. Tara Donker)
-* 2019: **Early Postdoc.Mobility Grant** from the Swiss National Science Foundation
-* 2018: **University of Basel Research Fund for Excellent Junior Researchers**
-* 2015: **Student Travel Award** to attend and present poster at the Scientific Research Network on Decision Neuroscience and Aging conference, Miami, FL.
-* 2009: **Penny Willow Prize** for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London\
+* 2023: Open Data Award from the Scientific Research Network On Decision Neuroscience & Aging
+* 2023: Cross-Border Education Grant (with Dr. Dorothée Bentz and Prof. Dr. Tara Donker)
+* 2019: Early Postdoc.Mobility Grant from the Swiss National Science Foundation
+* 2018: University of Basel Research Fund for Excellent Junior Researchers
+* 2015: Student Travel Award to attend and present poster at the Scientific Research Network on Decision Neuroscience and Aging conference, Miami, FL.
+* 2009: Penny Willow Prize for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London\
 
 
 ## Mentoring and outreach activities

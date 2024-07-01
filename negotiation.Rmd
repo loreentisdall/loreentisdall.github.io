@@ -11,6 +11,17 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
 ## Course summary
 <p style="text-align:justify;">The idea that some people are born negotiators who employ the _art of negotiation_ to achieve maximally beneficial results for their own purpose is a pervasive one, yet it is scientifically questionable. Instead, there may be much more of a _science of negotiation_, which can help individuals to prepare for, engage in, and close negotiations, and to do so more successfully. Negotiations are complex, of course, with outcomes ranging from getting the purchase price down on a new bike, to deciding the future of company employees during a takeover, or ending a hostage situation peacefully and without injury. By examining negotiations scientifically, we can establish basic principles that hold across different negotiation situations, which in turn allow us to identify factors that influence negotiation processes and outcomes. </p>
 

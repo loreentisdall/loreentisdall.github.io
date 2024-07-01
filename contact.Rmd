@@ -17,10 +17,22 @@ h1, h2, h3, h4{
 }
 ```
 
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
 <center>
 **Dr. Loreen Tisdall**\
+
 Center for Cognitive and Decision Sciences\
-Department of Psychology\
+Faculty of Psychology\
 University of Basel\
 Missionsstrasse 64A\
 CH-4055 Basel, Switzerland

@@ -1,0 +1,43 @@
+---
+title: "Teaching"
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# install.packages("postcards")
+library(postcards)
+```
+
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
+For an automatically updated list of the courses I teach and co-teach, see the [course registry](https://vorlesungsverzeichnis.unibas.ch/de/home?keyword=Tisdall) of the University of Basel.\
+
+### Courses in the Bachelor program
+
+* [History of Psychology](https://matarui.github.io/history_of_psych/)\
+* [Evidence-Based Decision Making](https://matarui.github.io/ebdm/)\
+* [Kognitionspsychologie II](https://matarui.github.io/kogpsy/)\
+* [How to write a Bachelor's thesis](https://matarui.github.io/BSc_thesis/)\
+* [Supervision of Bachelor's theses](bsc_thesis.html)\
+
+### Courses in the Master program
+
+* [Negotiation](negotiation.html)\
+* [Forecasting](forecasting.html)\
+* [Supervision of Master's theses](msc_thesis.html)
+
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: "Bachelor thesis"
+title: "Bachelor's thesis"
 output:
   postcards::trestles
 ---
@@ -11,10 +11,26 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
-## Research synthesis in the area of risk taking, externalizing behavior, and related disorders
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
+### Research synthesis in the area of risk taking, externalizing behavior, and related disorders
+
 <p style="text-align:justify;">Externalizing refers to a collective of behaviors and disorders often associated with self-regulation, including antisocial behavior, substance use, and other key outcomes of health, wealth, and general well-being (e.g., [Karlsson Linnér et al., 2021, Nature Neuroscience](https://doi.org/10.1038/s41593-021-00908-3)). The societal and personal costs of (disordered) externalizing, including unemployment, incarceration, addiction, to name but a few, are evidently huge. To intervene and, ideally, prevent externalizing behaviors from negatively affecting individuals and societies alike, we first must understand how to study externalizing and how externalizing relates to other constructs (e.g., impulsivity, risk preference). In a second step, we can try to identify biological (e.g., brain) and behavioral phenotypes that explain and/or predict externalizing.</p>
 
-<p style="text-align:justify;">Depending on individual interests and in consultation with me as your primary supervisor, thes bachelor thesis focuses on the topic of individual differences in risk preference and other related externalizing behaviors. You will use systematic research methods for synthesizing the existing research literature, which you will learn during the course of your bachelor thesis. Depending on your interests, related (clinical) phenotypes (e.g., substance addiction, antisocial and criminal behavior) can also be the focus of your bachelor thesis. For more information about how we structure our supervision at the Center for Cognitive and Decision Sciences, see our dedicated [bachelor thesis website](https://matarui.github.io/BSc_thesis/).</p>
+<p style="text-align:justify;">Depending on individual interests and in consultation with me as your primary supervisor, the Bachelor's thesis focuses on the topic of individual differences in risk preference and other related externalizing behaviors. You will use systematic research methods for synthesizing the existing research literature, which you will learn during the course of your Bachelor's thesis. Depending on your interests, related (clinical) phenotypes (e.g., substance addiction, antisocial and criminal behavior) can also be the focus of your research. For more information about how we structure our supervision at the Center for Cognitive and Decision Sciences, see our dedicated [Bachelor's thesis website](https://matarui.github.io/BSc_thesis/).</p>
+
+
+
+
 
 
 

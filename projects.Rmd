@@ -11,7 +11,19 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
-## Ongoing 
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
+
+### Ongoing 
 
 * **VRrisk** 
   + <p style="text-align:justify;">In this project we are conducting a comprehensive literature search and scoping review to characterize the use of virtual reality methods in the context of risk preference research. Our aim is to identify common approaches, emerging challenges, and promising areas where novel technologies such as virtual reality can advance research. See our [OSF preregistration](https://osf.io/qvsx3).</p>
@@ -22,11 +34,10 @@ library(postcards)
 * **DiffEat** 
   + <p style="text-align:justify;">In this project we are investigating the neural structural underpinnings of (disinhibited/emotional) food intake and control based on prior work suggesting specific brain tracts associated with the human reward circuitry as neural corrrelates of individual differences in impulsivity. Key collaborators are [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), [Brian Knutson](https://stanford.edu/~knutson/) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/).</p>
 * **DiffRisk** 
-  + <p style="text-align:justify;">Previous work suggested that neural functional activity in the nucleus accumbens to risk- and reward-related cues can predict real-life risk-taking behavior. Given that nucleus accumbens functional activity is driven by neurotransmission from connected brain regions, in this project we are investigating whether the structural properties of tracts carrying signals to the nucleus accumbens may also predict risk preference. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), and [Brian Knutson](https://stanford.edu/~knutson/). *Click [here](https://osf.io/ab4vr/) for the preprint.*</p>\
+  + <p style="text-align:justify;">Previous work suggested that neural functional activity in the nucleus accumbens to risk- and reward-related cues can predict real-life risk-taking behavior. Given that nucleus accumbens functional activity is driven by neurotransmission from connected brain regions, in this project we are investigating whether the structural properties of tracts carrying signals to the nucleus accumbens may also predict risk preference. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Kelly MacNiven](https://psychology.stanford.edu/people/kelly-macniven), and [Brian Knutson](https://stanford.edu/~knutson/).</p>
 
 
-
-## Completed 
+### Completed 
 
 * **AgeRisk 2.0** 
   + <p style="text-align:justify;">In this project we are investigating the effect of age on individual differences in risk preference and related constructs (impulsivity and self-control) in a healthy human life span sample. A particular focus of this project is to examine the extent to which associations between age and the different constructs differ as a function of whether we use self reports, behavioral measures, informant reports, or neuroimaging to assess risk preference, impulsivity, or self-control. Key collaborators are [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Renato Frey](https://renatofrey.net), [Dirk Wulff](https://www.dirkwulff.org), and [David Kellen](https://thecollege.syr.edu/people/faculty/kellen-phd-david/). *Click [here](https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbae092/7680344?utm_source=advanceaccess&utm_campaign=psychsocgerontology&utm_medium=email) for the paper*</p>
@@ -37,6 +48,6 @@ library(postcards)
 * **Basel-Berlin Risk Study (Neuroimaging component)** (2014-2020)
   + <p style="text-align:justify;">In this project we used functional neuroimaging to investigate whether risk-taking related brain activation in two popular behavioral risk-taking measures converge at the level of the group and the individual. We also investigated whether individual differences in risk-taking related brain activity can predict actual risk-taking behavior. *Click [here](https://www.frontiersin.org/articles/10.3389/fnbeh.2020.587152/full) for the paper.*</p>
 * **Neuroimaging Analysis Replication and Prediction Study (narps)** (2018-2020)
-  + <p style="text-align:justify;">The [narps project](https://www.narps.info/about.html) was a many-analysts study with the goal to estimate the variability of neuroscientific results coming from data collected using functional magnetic resonance imaging. [Laura Fontanesi](https://psychologie.unibas.ch/de/personen/laura-fontanesi/about-me/) and I contributed to this study as one of the many analysis teams. *Click [here](https://www.nature.com/articles/s41586-020-2314-9?fbclid=IwAR3jkR1Gkraxbig5vbUz0d0_bVOTCzAFGoCmnRQMG5jpcDwiApCjxZHNHrQ) for the paper.*</p>
+  + <p style="text-align:justify;">The [narps project](https://www.narps.info/about.html) was a many-analysts study with the goal to estimate the variability of neuroscientific results coming from data collected using functional magnetic resonance imaging. [Laura Fontanesi](https://ch.linkedin.com/in/laura-fontanesi) and I contributed to this study as one of the many analysis teams. *Click [here](https://www.nature.com/articles/s41586-020-2314-9?fbclid=IwAR3jkR1Gkraxbig5vbUz0d0_bVOTCzAFGoCmnRQMG5jpcDwiApCjxZHNHrQ) for the paper.*</p>
 * **AgeRisk 1.0** (2015-2016)
   + <p style="text-align:justify;">In this project we investigated the convergent validity of different self-report and behavioral assessments of risk taking in a comprehensive life span sample. We also investigated whether the age-related patterns we observed for self-reported risk-taking in our study sample were representative of patterns reported for large-sale, population-based surveys. *Click [here](https://www.researchgate.net/profile/Loreen-Tisdall/publication/308760553_Risk_Taking_Across_the_Life_Span_A_Comparison_of_Self-Report_and_Behavioral_Measures_of_Risk_Taking/links/606ad0f4a6fdccad3f71a8d3/Risk-Taking-Across-the-Life-Span-A-Comparison-of-Self-Report-and-Behavioral-Measures-of-Risk-Taking.pdf) for the paper.*</p>

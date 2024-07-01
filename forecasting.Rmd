@@ -11,6 +11,17 @@ knitr::opts_chunk$set(echo = FALSE)
 library(postcards)
 ```
 
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
 ## Course summary
 <p style="text-align:justify;">The future is uncertain, yet we strive to predict what may happen hours, days, weeks, months or even years in advance. What team will win the Swiss Football League? What party or candidate will clinch the next election? When will the next scientific breakthrough discovery be made, and who wil make it? All too often we imagine ourselves as expert forecasters, and opine to know what will happen in the future. But, despite the lure of the superforecasters, making good forecasts is equally fascinating as it is difficult. What information _should_ a good forecast be based on, versus what _are_ many forecasts actually based on? How _should_ information be integrated versus how _is_ information integrated? What actually _is_ a good forecast, how can we judge its performance? Who is the better forecaster: Man or machine? In this seminar we cover the basic principles and psychology of (successful) prediction and examine how well various prediction techniques work under different conditions.</p>
 

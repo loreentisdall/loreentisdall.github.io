@@ -1,6 +1,6 @@
 ---
-title: "Loreen Tisdall"
 image: "images/loreen_cartoon_black.jpeg"
+title: ""
 #image: "images/photo_loreen_circle.jpeg"
 #theme: theme.css
 links:
@@ -28,6 +28,21 @@ knitr::opts_chunk$set(echo = FALSE)
 # install.packages("postcards")
 library(postcards)
 ```
+
+```{css}
+a {
+    color: #E57248;
+}
+
+a:hover {
+    color: white;
+    background-color: #E57248;
+}
+```
+
+
+### Hello!
+
 I am a postdoctoral researcher at the Center for Cognitive and Decision Sciences at the University of Basel in Switzerland. As a research psychologist in the area of decision science, I study how and why humans differ in their choices compared to others. I have a special interest in risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts.
 
 ---
