@@ -27,7 +27,7 @@ For an automatically updated list of the courses I teach and co-teach, see the [
 
 #### Courses in the Bachelor program
 
-* [History of Psychology](https://matarui.github.io/history_of_psych/)\
+* [History of Psychology](https://matarui.github.io/HISTPSY_HS24/)\
 * [Kognitionspsychologie II](https://matarui.github.io/kogpsy/)\
 * [Evidence-based decision making](https://matarui.github.io/ebdm/)\
 * [How to write a Bachelor's thesis](https://matarui.github.io/BSc_thesis/)\
