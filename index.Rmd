@@ -47,7 +47,7 @@ I am a postdoctoral researcher at the Center for Cognitive and Decision Sciences
 
 ---
 
-Interested in using innovative methodological approaches to analyse age effects on risk preference and related constructs? Check out our recently published paper using [Specification Curve Analysis](https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbae092/7680344?utm_source=advanceaccess&utm_campaign=psychsocgerontology&utm_medium=email).
+Interested in using innovative methodological approaches to analyse age effects on risk preference and related constructs? Check out our recently published paper using [Specification Curve Analysis](https://doi.org/10.1093/geronb/gbae092).
 
 Interested in predicting clinical outcomes from brain structure? Check out our [PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2116703119).
 
