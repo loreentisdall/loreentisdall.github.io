@@ -23,8 +23,12 @@ a:hover {
 ```
 
 
-### Ongoing 
+### Ongoing
 
+* **Helping at a Cost** 
+  + <p style="text-align:justify;">Prosocial behavior often involves personal risks, such as intervening in harassment or participating in organ donation. Research shows prosocial behavior often increases with age, yet older adults are generally more risk-averse, particularly in uncertain situations. However, little is known about how individual factors (e.g., age, gender) and societal influences (e.g., norms, wealth, hardship) shape these decisions. This project aims to fill these gaps by (1) studying the impact of individual and societal factors on personal risk decisions and their underlying mechanisms, and (2) exploring virtual reality simulations to better assess these behaviors.</p>
+* **Delphi-Based Agenda Setting for Extended Reality Research in Clinical and Legal Fields** 
+  + <p style="text-align:justify;">Extended reality (XR), including augmented and virtual reality, is a transformative tool in clinical and legal fields, supporting therapy, training, courtroom simulations, and witness preparation. However, XR research in both domains lacks a unified agenda to address ethical, practical, and methodological challenges. This project uses a Delphi design, engaging stakeholders like researchers and policymakers, to identify and prioritize key research areas and applications, guiding ethical and impactful future advancements.</p>
 * **VRrisk / VRimpulsivity** 
   + <p style="text-align:justify;">In this project we are conducting a comprehensive literature search and scoping review to characterize the use of virtual reality methods in the context of risk preference and impulsivity research. Our aim is to identify common approaches, emerging challenges, and promising areas where novel technologies such as virtual reality can advance research. [__Preregistration for risk__](https://osf.io/qvsx3) and [__preregistration for impulsivity__](https://osf.io/kjd9g).</p>
 * **DiffEat** 
