@@ -35,7 +35,6 @@ For an automatically updated list of the courses I teach and co-teach, see the [
 #### Courses in the Master program
 
 * [Negotiation](negotiation.html)\
-* [Forecasting](forecasting.html)\
 
 #### Thesis supervision
 
