@@ -24,11 +24,11 @@ a:hover {
 
 ## Research interests 
 
-**Keywords: risk taking, impulsivity, externalizing, brain structure, lifespan, measurement convergence, neural mechanisms**
+**Keywords: decision making, risk preference, impulsivity, neural substrates, virtual reality, lifespan development, measurement convergence**
 
 <p style="text-align:justify;">In my work I focus on risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
 
-<p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys and neuroimaging studies, and I use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and policing.</p>\
+<p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys, neuroimaging studies, and virtual reality. I also use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and fear of crime.</p>\
 
 
 ## Positions
