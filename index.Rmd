@@ -1,7 +1,7 @@
 ---
-image: "images/loreen_cartoon_black.jpeg"
+image: "images/loreen_circle.jpeg"
 title: ""
-#image: "images/photo_loreen_circle.jpeg"
+#image: "images/loreen_cartoon_black.jpeg"
 #theme: theme.css
 links:
   - label: UniBas
