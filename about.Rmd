@@ -46,6 +46,7 @@ a:hover {
 
 
 ## Grants and awards
+* 2025: Research grant from the Freiwillige Akademische Gesellschaft Basel 
 * 2024: Steven Karger Prize from the Faculty of Psychology, University of Basel
 * 2024: University of Basel Research Fund for Excellent Junior Researchers
 * 2023: Open Data Award from the Scientific Research Network On Decision Neuroscience & Aging
