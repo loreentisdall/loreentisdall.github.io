@@ -1,7 +1,6 @@
 ---
 title: "Publications"
-output:
-  postcards::trestles
+output: postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
@@ -27,9 +26,7 @@ For an automated list of my publications and further information, see my **[Goog
 
 ## Manuscripts submitted for peer review
 <p style="text-align:justify;">
-+ **Tisdall, L.**, & Seaman, K. L. (under review). Decision making in the aging brain: An update of the evidence base for the ‘affect-integration-motivation’ framework. [Preprint](https://doi.org/10.31234/osf.io/tnbky)
 + Wollmann, C., & **Tisdall, L.** (under review). Leveraging virtual reality to study risk preference and impulsivity: Insights from a dual scoping review. \
-
 
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
@@ -61,6 +58,7 @@ For an automated list of my publications and further information, see my **[Goog
 + Pearce, M., Willis, E., **Mamerow, L.**, Jorgensen, B., & Martin, J. (2012). A rural-urban divide?: Attitudinal differences towards water restrictions in South Australia. _The Australasian Journal of Regional Studies, 18_(3), 392-419. [Paper](https://www.researchgate.net/profile/Bradley-Jorgensen/publication/257027984_A_rural-urban_divide_Attitudinal_differences_towards_water_restrictions_in_South_Australia/links/55b9532308ae9289a08ffe75/A-rural-urban-divide-Attitudinal-differences-towards-water-restrictions-in-South-Australia.pdf)\
 
 ## Book chapters
++ **Tisdall, L.**, & Seaman, K. L. (in press). Decision making in the aging brain: An update of the evidence base for the ‘affect-integration-motivation’ framework. [Preprint](https://doi.org/10.31234/osf.io/tnbky)
 + Coveney, J., Henderson, J., Meyer, S., **Mamerow, L.**, Taylor, A., Ward, P., & Wilson, A. (2015). Consumer Trust. _The SAGE Encyclopedia of Food Issues_. SAGE Publications, Inc. [Chapter](https://www.researchgate.net/profile/Paul-Ward/publication/276921180_Consumer_Trust_in_Food/links/57d8d7cb08ae601b39afb568/Consumer-Trust-in-Food.pdf)\
 
 ## Other contributions

@@ -15,7 +15,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loreen-tisdall-54937431/"
   - label: Email
-    url: 'loreen.tisdall@unibas.ch'
+    url: "mailto:loreen.tisdall@unibas.ch"
 output:
   postcards::trestles
 site: distill::distill_website

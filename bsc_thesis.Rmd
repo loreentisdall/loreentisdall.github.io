@@ -1,7 +1,6 @@
 ---
 title: "Bachelor's thesis"
-output:
-  postcards::trestles
+output: postcards::trestles
 ---
 
 ```{r setup, include=FALSE}

@@ -1,7 +1,6 @@
 ---
 title: "Contact"
-output:
-  postcards::trestles
+output: postcards::trestles
 ---
 
 ```{r setup, include=FALSE}

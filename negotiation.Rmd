@@ -1,7 +1,6 @@
 ---
 title: "Negotiation seminar"
-output:
-  postcards::trestles
+output: postcards::trestles
 ---
 
 ```{r setup, include=FALSE}

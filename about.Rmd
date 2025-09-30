@@ -1,7 +1,6 @@
 ---
 title: "About"
-output:
-  postcards::trestles
+output: postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
@@ -24,7 +23,7 @@ a:hover {
 
 ## Research interests 
 
-**Keywords: decision making, risk preference, impulsivity, personal safety, neural substrates, virtual reality, lifespan development, measurement convergence**
+**Keywords: decision making, risk preference, impulsivity, lifespan development, personal safety, neural substrates, virtual reality, measurement convergence**
 
 <p style="text-align:justify;">In my work I focus on risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
 
@@ -32,6 +31,7 @@ a:hover {
 
 
 ## Positions
+* 10/2025: Visiting researcher at the Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany)
 * 05/2021 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
 * 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland\
@@ -46,6 +46,8 @@ a:hover {
 
 
 ## Grants and awards
+* 2025: Postdoctoral fellowship scholarship, Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany)
+* 2025: Research grant from the Biäsch Foundation
 * 2025: Research grant from the Freiwillige Akademische Gesellschaft Basel 
 * 2024: Steven Karger Prize from the Faculty of Psychology, University of Basel
 * 2024: University of Basel Research Fund for Excellent Junior Researchers
@@ -58,11 +60,11 @@ a:hover {
 
 
 ## Mentoring and outreach activities
-* 2023: Participation in [Rendez-vous](https://www.rendez-vous-science.ch/forschende), organized by Science et Cité and Reatch 
+* 2023: Participation in *Rendez-vous*, organized by Science et Cité and Reatch 
 * 2022 - 2023: Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
 * 2022: Organization Committee of [BEACON](https://psychologie.unibas.ch/de/beacon/)\
 
 
 ## Peer review activities
-I have written reviews for several journals, including _Psychological Science, Journal of Personality and Social Psychology: Personality Processes and Individual Differences, PLoS One, Psychology and Aging, Scientific Reports, Journal of Experimental Psychology: General, Gerontology, Experimental and Clinical Psychopharmacology, npj Science of Learning, Thinking & Reasoning, Cognitive Psychology, Cognition and Emotion, Psychophysiology, Human Brain Mapping, Developmental Psychology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Gerontology: Psychological Sciences, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/). I am also a regular reviewer for the [Ethics Committee of the Faculty of Psychology, University of Basel](https://psychologie.unibas.ch/en/research/research-groups/department-of-psychology-ethics-committee/).  
+I have written reviews for several journals, including _Psychological Science, Journal of Personality and Social Psychology: Personality Processes and Individual Differences, PLoS One, Psychology and Aging, Scientific Reports, Journal of Experimental Psychology: General, Gerontology, Experimental and Clinical Psychopharmacology, npj Science of Learning, Thinking & Reasoning, Cognitive Psychology, Cognition and Emotion, Psychophysiology, Human Brain Mapping, Developmental Psychology, Frontiers in Psychology, International Journal of Behavioral Development, Journal of Behavioral Decision Making, Journal of Cognitive Psychology, Journal of Gerontology: Psychological Sciences, Value in Health._ For a verified list of the most recent reviews, please visit my profile on [Publons](https://publons.com/researcher/4347373/loreen-tisdall/). I am also a regular reviewer for the [Ethics Committee of the Faculty of Psychology, University of Basel](https://psychologie.unibas.ch/de/forschung/governance/ethikkommission-der-fakultaet-fuer-psychologie/#c43724).  
 
