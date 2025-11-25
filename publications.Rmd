@@ -24,12 +24,10 @@ a:hover {
 
 For an automated list of my publications and further information, see my **[Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=o8ce3OwAAAAJ)**. Publications before 2017 appear under my maiden name Mamerow.\
 
-## Manuscripts submitted for peer review
-<p style="text-align:justify;">
-+ Wollmann, C., & **Tisdall, L.** (under review). Leveraging virtual reality to study risk preference and impulsivity: Insights from a dual scoping review. \
 
 ## Peer-reviewed journal articles
 <p style="text-align:justify;">
++ Wollmann, C., & **Tisdall, L.** (accepted for publication). Leveraging virtual reality to study risk preference and impulsivity: Insights from a dual scoping review. _Computers in Human Behavior Reports_
 + Bagaïni, A., Liu, Y., Kapoor, M., Son, G., Brückner, P.-C., **Tisdall, L.**, & Mata, R. (2025). A systematic review and meta-analyses of the temporal stability and convergent validity of risk preference measures. _Nature Human Behaviour_. [Paper](https://www.nature.com/articles/s41562-024-02085-2)
 + **Tisdall, L.**, MacNiven, K. H., Leong, J. K., Frey, R., Rieskamp, J., Hertwig, R., Knutson, B., & Mata, R. (2024). Structural projections to the nucleus accumbens link to impulsive components of human risk preference. _Imaging Neuroscience_. [Paper](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00344/124893)
 + **Tisdall, L.**, Frey, R., Wulff, D.U., Kellen, D., & Mata, R. (2024). Convergence of Age Differences in Risk Preference, Impulsivity, and Self-Control: A Multiverse Analysis. _The Journals of Gerontology: Series B_. [Paper](https://doi.org/10.1093/geronb/gbae092) 
