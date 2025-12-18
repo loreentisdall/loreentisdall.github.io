@@ -31,8 +31,9 @@ a:hover {
 
 
 ## Positions
+* 01/2026 - present: Senior researcher, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 10/2025: Visiting researcher at the Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany); 🎬️ [Quickfire Q&A](https://www.youtube.com/watch?v=RaGMnsBxwKk&t=47s)
-* 05/2021 - present: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
+* 05/2021 - 12/2025: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
 * 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland\
 
@@ -46,9 +47,10 @@ a:hover {
 
 
 ## Grants and awards
+* 2025: Seed Money project funding from Eucor – The European Campus, co-applicant Dr. Rebecca Albrecht (Albert Ludwig University of Freiburg, Germany)
 * 2025: Postdoctoral fellowship scholarship, Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany)
 * 2025: Research grant from the Biäsch Foundation
-* 2025: Research grant from the Freiwillige Akademische Gesellschaft Basel 
+* 2025: Research grant from the Freiwillige Akademische Gesellschaft Basel
 * 2024: Steven Karger Prize from the Faculty of Psychology, University of Basel; 🎬 [Interview with Karger Publishers](https://www.youtube.com/watch?v=isDf9Ha6boA)
 * 2024: University of Basel Research Fund for Excellent Junior Researchers
 * 2023: Open Data Award from the Scientific Research Network On Decision Neuroscience & Aging
