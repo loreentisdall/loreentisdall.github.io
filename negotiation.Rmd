@@ -36,40 +36,43 @@ a:hover {
 ## Prerequisites
 None.
 
-## Sessions Spring Semester 2025
-The Negotiation seminar in FS25 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+1). Also check the University of Basel [course directory](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289098). All course materials will be circulated via ADAM. 
+## Sessions Spring Semester 2026
+The Negotiation seminar in FS26 takes place on Tuesdays, 2:15 pm - 3:45 pm (GMT+1). Also check the University of Basel [course directory](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289098). All course materials will be circulated via ADAM. 
 
 
 |  WEEK   |    DATE     | TOPIC                                                               | NOTE             | 
 | :------:| ---------   | ------------------------------------------------------------------- | ---------------- | 
-| 1       | 18.02.25    | **Course overview & introduction**                                  |                  | 
-| 2       | 25.02.25    | **Negotiation theory**                                              
+| 1       | 17.02.26    | **Course overview & introduction**                                  |                  | 
+| 2       | 24.02.26    | **Fasnachtsferien**                                                 | *No seminar*     | 
+| 3       | 03.03.26    | **Negotiation theory**                                              
 |         |             | + Raiffa et al. (2007), Chapters 1-4.                               |                  |            
-| 3       | 04.03.25    | **Preparing for negotiation: BATNA, ZOPA, RV, TV**                  
+| 4       | 10.03.26    | **Preparing for negotiation: BATNA, ZOPA, RV, TV**                  
 |         |             | + Malhotra & Bazerman (2007), Chapters 1-2.                         
 |         |             | + Raiffa et al. (2007), Chapter 7.                                  |                  |
-| 4       | 11.03.25    | **Fasnachtsferien**                                                 | *No seminar*     | 
-| 5       | 18.03.25    | **Distributive negotiation: Exercise**                              
+| 5       | 17.03.26    | **Distributive negotiation: Exercise**                              
 |         |             | + Raiffa et al. (2007). Chapters 6-7.                               |                  |
-| 6       | 25.03.25    | **Integrative negotiation: Exercise**                               
-|         |             | + Malhotra & Bazerman (2007). Chapters 2-3.
-|         |             | + Raiffa et al. (2007). Chapters 11-14.                             |                  |
-| 7       | 01.04.25    | **Real world negotiation: Influence and persuasion**                               
+| 6       | 24.03.26    | **Real world negotiation: Influence and persuasion**                               
 |         |             | + Malhotra & Bazerman (2007). Chapters 7, 12.
 |         |             | + Raiffa et al. (2007). Chapter 15.                             
 |         |             | + [Cialdini. R.B. (2004). The science of persuasion. Scientific American Mind, 14, 1, 70-77.](https://www.jstor.org/stable/24939368) | |
-| 8       | 08.04.25    | **Distributive & integrative negotiation: Exercise**                
+| 7       | 31.03.26    | **Integrative negotiation: Exercise**                               
+|         |             | + Malhotra & Bazerman (2007). Chapters 2-3.
+|         |             | + Raiffa et al. (2007). Chapters 11-14.                             |                  |
+| 8       | 07.04.26    | **Integrative negotiation: Exercise**                
 |         |             | + Malhotra & Bazerman (2007), Chapters 1-2.  
 |         |             | + Raiffa et al. (2007). Chapters 6-7, 11-14.                        |                  |
-| 9       | 15.04.25    | **Real world negotiation: Ethics, lies, & power**                        
-|         |             | + Malhotra & Bazerman (2007). Chapters 9-12.
-|         |             | + Raiffa et al. (2007). Chapter 15.                                 |                  |
-| 10      | 29.04.25    | **Multi-party negotiation: Intro & Exercise**                       
-|         |             | + Raiffa et al. (2007). Chapter 21.                                 |                  |
-| 11      | 06.05.25    | **Group presentation preparation**                                  | *Asynchronous*   | 
-| 12      | 13.05.25    | **Group presentations**                                             |                  |  
-| 13      | 20.05.25    | **Group presentations**                                             |                  |
-| 14      | 27.05.25    | **Group presentations & wrap-up**                                   |                  |
+| 9       | 14.04.26    | **No seminar**                                                      | *No seminar*     |
+| 10      | 21.04.26    | **Real world negotiation: Ethics, lies, & power**                        
+|         |             | + Malhotra & Bazerman (2007). Chapters 9-12.                                          
+|         |             | + Raiffa et al. (2007). Chapter 15.                                 |                  |   
+| 11      | 28.04.26    | **Multi-party negotiation: Intro & Exercise**                       
+|         |             | + Raiffa et al. (2007). Chapter 21.                                 |                  |                                         
+| 12      | 05.05.26    | **New directions in negotiation: Student panel discussions**                       
+|         |             | + Sustainability: [Trötschel et al., 2022](https://www.mdpi.com/2071-1050/14/9/5257)                                 
+|         |             | + Modern communication media: [Geiger, 2020](https://link.springer.com/article/10.1007/s10726-020-09662-6)   ||
+| 13      | 12.05.26    | **(Group) Presentation preparation**                                | *Asynchronous*   |  
+| 14      | 19.05.26    | **(Group) Presentations**                                           |                  |
+| 15      | 26.05.26    | **(Group) Presentations & wrap-up**                                 |                  |
 
 
                       
