@@ -23,16 +23,16 @@ a:hover {
 
 ## Research interests 
 
-**Keywords: decision making, risk preference, impulsivity, lifespan development, personal safety, neural substrates, virtual reality, measurement convergence**
+**Keywords: decision making, risk preference, safety perception, lifespan development, virtual reality, cognitive neuroscience, measurement, legal decision making**
 
-<p style="text-align:justify;">In my work I focus on risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts. Some of my work asks whether, how and why risk-related decisions change across the life span, to what extent different measures of risk and impulsivity converge, and the extent to which studying brain function and anatomy can help us understand the biological basis of individual differences. </p>
+<p style="text-align:justify;">My research focuses on decision making under uncertainty, with a particular interest in risk preference, safety perception, and lifespan development. I investigate how people perceive and respond to risk, how these processes change across the lifespan, and how different approaches to measuring decision making converge. I am also interested in the neural mechanisms underlying individual differences in decision making and their implications for real-world and legal contexts.</p>
 
-<p style="text-align:justify;">To address the various questions motivating my work, I adopt a variety of research methods to collect data, including behavioral experiments, surveys, neuroimaging studies, and virtual reality. I also use a variety of data analysis techniques to derive statistical inferences from the sampled data to the wider population of interest. In the future, I hope to transfer some of these methods and the insights gained from studying decisions under risk to a new application context that is close to my heart and part of my previous training, which is the area of decision making in legal settings, including aspects of delinquency and fear of crime.</p>\
+<p style="text-align:justify;">To address these questions, I combine behavioural experiments, surveys, neuroimaging, and virtual reality with rigorous quantitative methods. My long-term goal is to translate insights from decision science into legal settings, including research on crime, safety, and justice.</p>\
 
 
 ## Positions
 * 01/2026 - present: Senior researcher, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
-* 10/2025: Visiting researcher at the Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany); 🎬️ [Quickfire Q&A](https://www.youtube.com/watch?v=RaGMnsBxwKk&t=47s)
+* 10/2025: Visiting researcher at the Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany); [Quickfire Q&A](https://www.youtube.com/watch?v=RaGMnsBxwKk&t=47s)
 * 05/2021 - 12/2025: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland
 * 11/2019 - 04/2021: Postdoctoral research fellow, spanlab, Stanford University, CA, USA
 * 07/2018 - 09/2019: Postdoctoral research assistant, Center for Cognitive and Decision Sciences, University of Basel, Switzerland\
@@ -51,7 +51,7 @@ a:hover {
 * 2025: Postdoctoral fellowship scholarship, Max Planck Institute for the Study of Crime, Security and Law (Freiburg im Breisgau, Germany)
 * 2025: Research grant from the Biäsch Foundation
 * 2025: Research grant from the Freiwillige Akademische Gesellschaft Basel
-* 2024: Steven Karger Prize from the Faculty of Psychology, University of Basel; 🎬 [Interview with Karger Publishers](https://www.youtube.com/watch?v=isDf9Ha6boA)
+* 2024: Steven Karger Prize from the Faculty of Psychology, University of Basel; [Interview with Karger Publishers](https://www.youtube.com/watch?v=isDf9Ha6boA)
 * 2024: University of Basel Research Fund for Excellent Junior Researchers
 * 2023: Open Data Award from the Scientific Research Network On Decision Neuroscience & Aging
 * 2023: Cross-Border Education Grant (with Dr. Dorothée Bentz and Prof. Dr. Tara Donker)
@@ -61,7 +61,9 @@ a:hover {
 * 2009: Penny Willow Prize for best MSc dissertation in Crime Science in 2009, Jill Dando Institute for Crime Science, University College London\
 
 
-## Mentoring and outreach activities
+## Science communication
+* 2026: Radio interview on gender differences in risk taking; [Interview with Bayerischer Rundfunk](https://www.br.de/nachrichten/bayern/badetote-meist-maennlich-warum-maenner-oft-risikobereiter-sind,VOCt2BL)
+* 2026: Public lecture "Risiko im Kopf: Einblicke in die Entscheidungsfindung aus Sicht der Gehirnforschung"; [Woche des Gehirns](https://neuronetwork.unibas.ch/en/das-hirn-erforschen/woche-des-gehirns-2026/)
 * 2023: Participation in *Rendez-vous*, organized by Science et Cité and Reatch 
 * 2022 - 2023: Organization Committee of [Methods4Postdocs](https://psychologie.unibas.ch/de/methods-training-for-postdocs/)
 * 2022: Organization Committee of [BEACON](https://psychologie.unibas.ch/de/beacon/)\

@@ -43,14 +43,16 @@ a:hover {
 
 ### Hello!
 
-I am a senior researcher at the Center for Cognitive and Decision Sciences at the University of Basel in Switzerland. As a research psychologist in the area of decision science, I study how and why humans differ in their choices compared to others. I have a special interest in risk- and impulsivity-related decisions, which we encounter in both day-to-day contexts but which also play a crucial role in clinical and legal contexts.
+I am a Senior Researcher at the Center for Cognitive and Decision Sciences at the University of Basel, Switzerland. My research explores how people make decisions under uncertainty, with a particular focus on risk preference, safety perception, and lifespan development. I investigate the cognitive and affective mechanisms underlying individual differences in decision making and how these insights can inform legal and societal challenges.
 
 ---
 
-Interested in using innovative methodological approaches to analyse age effects on risk preference and related constructs? Check out our recently published paper using [Specification Curve Analysis](https://doi.org/10.1093/geronb/gbae092).
+*How can we use virtual reality to improve research on risk and decision making?* [Read more](https://doi.org/10.1016/j.chbr.2025.100889).
 
-Interested in predicting clinical outcomes from brain structure? Check out our [PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2116703119).
+*How do we measure decision making across the lifespan?* [Read more here](https://www.nature.com/articles/s41562-024-02085-2) and [here](https://doi.org/10.1093/geronb/gbae092).
 
-Interested in improving how, as a community, we analyse neuroimaging data? Check out our many-analysts [Nature paper](https://www.nature.com/articles/s41586-020-2314-9).
+*Can brain structure predict clinically relevant outcomes?* [Read more](https://www.pnas.org/doi/10.1073/pnas.2116703119).
+
+*How can we make neuroimaging research more robust and reproducible?* [Read more](https://www.nature.com/articles/s41586-020-2314-9).
 
 
